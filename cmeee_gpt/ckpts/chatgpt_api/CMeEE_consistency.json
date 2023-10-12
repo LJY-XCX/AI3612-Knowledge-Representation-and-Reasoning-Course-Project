@@ -1,0 +1,8935 @@
+[
+  {
+    "text": "对儿童SARST细胞亚群的研究表明，与成人SARS相比，儿童细胞下降不明显，证明上述推测成立。",
+    "entities": [
+      {
+        "entity": "SARS",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "entity": "SARS",
+        "type": "dis",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "儿童细胞",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 31
+      },
+      {
+        "entity": "成人SARS",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "阳性体征主要表现在呼吸系统，多数患儿肺部可闻及啰音，啰音可出现在疾病早期或中期，多为细湿啰音，啰音出现部位多与胸部X线片显示的肺实变部位一致，可以双侧或单侧，随着疾病好转而消失，少数患儿始终无啰音、呼吸音减弱或管状呼吸音等病理性呼吸音出现。",
+    "entities": [
+      {
+        "entity": "阳性体征",
+        "type": "sym",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "呼吸系统",
+        "type": "bod",
+        "start_idx": 9,
+        "end_idx": 12
+      },
+      {
+        "entity": "肺实变",
+        "type": "dis",
+        "start_idx": 63,
+        "end_idx": 65
+      },
+      {
+        "entity": "细湿啰音",
+        "type": "sym",
+        "start_idx": 42,
+        "end_idx": 45
+      },
+      {
+        "entity": "胸部X线片",
+        "type": "bod",
+        "start_idx": 55,
+        "end_idx": 59
+      },
+      {
+        "entity": "双侧",
+        "type": "sym",
+        "start_idx": 73,
+        "end_idx": 74
+      },
+      {
+        "entity": "单侧",
+        "type": "sym",
+        "start_idx": 76,
+        "end_idx": 77
+      },
+      {
+        "entity": "管状呼吸音",
+        "type": "sym",
+        "start_idx": 105,
+        "end_idx": 109
+      },
+      {
+        "entity": "啰音",
+        "type": "sym",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "啰音",
+        "type": "sym",
+        "start_idx": 26,
+        "end_idx": 27
+      },
+      {
+        "entity": "啰音",
+        "type": "sym",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "啰音",
+        "type": "sym",
+        "start_idx": 47,
+        "end_idx": 48
+      },
+      {
+        "entity": "啰音",
+        "type": "sym",
+        "start_idx": 96,
+        "end_idx": 97
+      },
+      {
+        "entity": "肺部",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "呼吸音减弱",
+        "type": "sym",
+        "start_idx": 99,
+        "end_idx": 103
+      }
+    ]
+  },
+  {
+    "text": "3.心电图应常规查EKG。",
+    "entities": [
+      {
+        "entity": "心电图",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ]
+  },
+  {
+    "text": "咽拭子病毒分离查呼吸道合胞病毒、A型流感病毒、B型流感病毒、肠道病毒、拉萨热病毒、汉坦病毒、腺病毒，抽血查支原体抗体（MP-IgM）、衣原体抗体（CP-IgM）对排除其他病原肺炎是必要的。",
+    "entities": [
+      {
+        "entity": "咽拭子病毒分离",
+        "type": "ite",
+        "start_idx": 0,
+        "end_idx": 6
+      },
+      {
+        "entity": "呼吸道合胞病毒",
+        "type": "mic",
+        "start_idx": 8,
+        "end_idx": 14
+      },
+      {
+        "entity": "A型流感病毒",
+        "type": "mic",
+        "start_idx": 16,
+        "end_idx": 21
+      },
+      {
+        "entity": "B型流感病毒",
+        "type": "mic",
+        "start_idx": 23,
+        "end_idx": 28
+      },
+      {
+        "entity": "肠道病毒",
+        "type": "mic",
+        "start_idx": 30,
+        "end_idx": 33
+      },
+      {
+        "entity": "拉萨热病毒",
+        "type": "mic",
+        "start_idx": 35,
+        "end_idx": 39
+      },
+      {
+        "entity": "汉坦病毒",
+        "type": "mic",
+        "start_idx": 41,
+        "end_idx": 44
+      },
+      {
+        "entity": "腺病毒",
+        "type": "mic",
+        "start_idx": 46,
+        "end_idx": 48
+      },
+      {
+        "entity": "抽血",
+        "type": "ite",
+        "start_idx": 50,
+        "end_idx": 51
+      },
+      {
+        "entity": "支原体",
+        "type": "mic",
+        "start_idx": 53,
+        "end_idx": 55
+      },
+      {
+        "entity": "肺炎",
+        "type": "dis",
+        "start_idx": 87,
+        "end_idx": 88
+      },
+      {
+        "entity": "支原体抗体（MP-IgM）",
+        "type": "ite",
+        "start_idx": 53,
+        "end_idx": 65
+      },
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 67,
+        "end_idx": 69
+      },
+      {
+        "entity": "衣原体抗体（CP-IgM）",
+        "type": "ite",
+        "start_idx": 67,
+        "end_idx": 79
+      }
+    ]
+  },
+  {
+    "text": "11.查血气分析及电解质，有助于判断呼吸衰竭及电解质紊乱。",
+    "entities": [
+      {
+        "entity": "血气分析",
+        "type": "ite",
+        "start_idx": 4,
+        "end_idx": 7
+      },
+      {
+        "entity": "电解质",
+        "type": "ite",
+        "start_idx": 9,
+        "end_idx": 11
+      },
+      {
+        "entity": "电解质",
+        "type": "ite",
+        "start_idx": 23,
+        "end_idx": 25
+      },
+      {
+        "entity": "呼吸衰竭",
+        "type": "dis",
+        "start_idx": 18,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "4.有休克表现者。",
+    "entities": []
+  },
+  {
+    "text": "（六）真菌性肺炎真菌性肺炎常在许多全身性疾病基础上发生，如血液病、营养不良、结核病、免疫功能缺陷等，或继发于婴幼儿肺炎、支气管扩张症等。",
+    "entities": [
+      {
+        "entity": "真菌性肺炎",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "真菌性肺炎",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 12
+      },
+      {
+        "entity": "结核病",
+        "type": "dis",
+        "start_idx": 38,
+        "end_idx": 40
+      },
+      {
+        "entity": "婴幼儿肺炎",
+        "type": "dis",
+        "start_idx": 54,
+        "end_idx": 58
+      },
+      {
+        "entity": "支气管扩张症",
+        "type": "dis",
+        "start_idx": 60,
+        "end_idx": 65
+      },
+      {
+        "entity": "血液病",
+        "type": "dis",
+        "start_idx": 29,
+        "end_idx": 31
+      },
+      {
+        "entity": "营养不良",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 36
+      },
+      {
+        "entity": "免疫功能缺陷",
+        "type": "dis",
+        "start_idx": 42,
+        "end_idx": 47
+      }
+    ]
+  },
+  {
+    "text": "可有发热、咳嗽、气促、发绀、精神委靡，年长儿可有无色胶冻样痰咳出，肺部听诊呼吸音减弱，可闻及管状呼吸音和中小水泡音，胸部X线片有点状阴影，可似粟粒性肺结核改变，亦可有棉絮状阴影或大片实变灶。",
+    "entities": [
+      {
+        "entity": "发热",
+        "type": "sym",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "咳嗽",
+        "type": "sym",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "气促",
+        "type": "sym",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "发绀",
+        "type": "sym",
+        "start_idx": 11,
+        "end_idx": 12
+      },
+      {
+        "entity": "精神委靡",
+        "type": "sym",
+        "start_idx": 14,
+        "end_idx": 17
+      },
+      {
+        "entity": "无色胶冻样痰",
+        "type": "sym",
+        "start_idx": 24,
+        "end_idx": 29
+      },
+      {
+        "entity": "肺部",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 34
+      },
+      {
+        "entity": "听诊呼吸音",
+        "type": "ite",
+        "start_idx": 35,
+        "end_idx": 39
+      },
+      {
+        "entity": "管状呼吸音",
+        "type": "ite",
+        "start_idx": 46,
+        "end_idx": 50
+      },
+      {
+        "entity": "中小水泡音",
+        "type": "ite",
+        "start_idx": 52,
+        "end_idx": 56
+      },
+      {
+        "entity": "胸部X线片",
+        "type": "ite",
+        "start_idx": 58,
+        "end_idx": 62
+      },
+      {
+        "entity": "胶冻样痰",
+        "type": "ite",
+        "start_idx": 26,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "抗真菌药物治疗有效，如氟康唑、两性霉素B、伏立康唑等。",
+    "entities": [
+      {
+        "entity": "氟康唑",
+        "type": "dru",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "两性霉素B",
+        "type": "dru",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "伏立康唑",
+        "type": "dru",
+        "start_idx": 21,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "（七）衣原体肺炎根据抗原结构、对磺胺敏感性和包涵体性质等分为四种：沙眼衣原体（C.trachomatis，CT），肺炎衣原体（C.pneumonial，Cpn），鹦鹉热衣原体（C.pecorum），家畜衣原体（C.pecorum）。",
+    "entities": [
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 35,
+        "end_idx": 37
+      },
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 59,
+        "end_idx": 61
+      },
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 84,
+        "end_idx": 86
+      },
+      {
+        "entity": "衣原体",
+        "type": "mic",
+        "start_idx": 101,
+        "end_idx": 103
+      },
+      {
+        "entity": "沙眼衣原体",
+        "type": "mic",
+        "start_idx": 33,
+        "end_idx": 37
+      },
+      {
+        "entity": "肺炎衣原体",
+        "type": "mic",
+        "start_idx": 57,
+        "end_idx": 61
+      },
+      {
+        "entity": "鹦鹉热衣原体",
+        "type": "mic",
+        "start_idx": 81,
+        "end_idx": 86
+      },
+      {
+        "entity": "家畜衣原体",
+        "type": "mic",
+        "start_idx": 99,
+        "end_idx": 103
+      }
+    ]
+  },
+  {
+    "text": "1.沙眼衣原体肺炎占婴儿肺炎的18.4%，多见于1～4月龄幼婴，可由沙眼衣原体感染的母亲垂直传染给婴儿。",
+    "entities": [
+      {
+        "entity": "沙眼衣原体肺炎",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 8
+      },
+      {
+        "entity": "婴儿",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "婴儿",
+        "type": "bod",
+        "start_idx": 49,
+        "end_idx": 50
+      },
+      {
+        "entity": "沙眼衣原体",
+        "type": "mic",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "沙眼衣原体",
+        "type": "mic",
+        "start_idx": 34,
+        "end_idx": 38
+      },
+      {
+        "entity": "母亲",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 43
+      },
+      {
+        "entity": "肺炎",
+        "type": "dis",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "肺炎",
+        "type": "dis",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "幼婴",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "禁用阿司匹林。",
+    "entities": []
+  },
+  {
+    "text": "5.抗生素大环内酯类抗生素如阿奇霉素10mg/（kg•d），可静脉滴注5天，停药3天，为一个疗程；根据病情可考虑再用1～2个疗程。",
+    "entities": [
+      {
+        "entity": "阿奇霉素",
+        "type": "dru",
+        "start_idx": 14,
+        "end_idx": 17
+      },
+      {
+        "entity": "静脉滴注",
+        "type": "pro",
+        "start_idx": 31,
+        "end_idx": 34
+      },
+      {
+        "entity": "病情",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 52
+      },
+      {
+        "entity": "停药",
+        "type": "pro",
+        "start_idx": 38,
+        "end_idx": 39
+      },
+      {
+        "entity": "疗程",
+        "type": "pro",
+        "start_idx": 46,
+        "end_idx": 47
+      },
+      {
+        "entity": "疗程",
+        "type": "pro",
+        "start_idx": 62,
+        "end_idx": 63
+      },
+      {
+        "entity": "抗生素大环内酯类抗生素",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "SARS病理生理过程的关键是全身炎症反应综合征（SIRS）的不断放大，发生级联反应（cascade），导致“细胞因子风暴”和“炎症介质瀑布”；也可能发生“肠道细菌移位”和“肠源性内毒素血症”，进而发生感染性休克和组织器官损伤，导致MODS和MOF。",
+    "entities": [
+      {
+        "entity": "SARS",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "全身炎症反应综合征（SIRS）",
+        "type": "dis",
+        "start_idx": 14,
+        "end_idx": 28
+      },
+      {
+        "entity": "细胞因子风暴",
+        "type": "dis",
+        "start_idx": 54,
+        "end_idx": 59
+      },
+      {
+        "entity": "炎症介质瀑布",
+        "type": "dis",
+        "start_idx": 63,
+        "end_idx": 68
+      },
+      {
+        "entity": "肠道细菌移位",
+        "type": "dis",
+        "start_idx": 77,
+        "end_idx": 82
+      },
+      {
+        "entity": "肠源性内毒素血症",
+        "type": "dis",
+        "start_idx": 86,
+        "end_idx": 93
+      },
+      {
+        "entity": "感染性休克",
+        "type": "dis",
+        "start_idx": 100,
+        "end_idx": 104
+      },
+      {
+        "entity": "组织器官损伤",
+        "type": "dis",
+        "start_idx": 106,
+        "end_idx": 111
+      },
+      {
+        "entity": "MODS",
+        "type": "dis",
+        "start_idx": 115,
+        "end_idx": 118
+      },
+      {
+        "entity": "MOF",
+        "type": "dis",
+        "start_idx": 120,
+        "end_idx": 122
+      },
+      {
+        "entity": "全身",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "组织器官",
+        "type": "bod",
+        "start_idx": 106,
+        "end_idx": 109
+      }
+    ]
+  },
+  {
+    "text": "一般给予鼻导管给氧（1L），小婴儿给予头罩给氧（3～5L），保证氧饱和度＞97%。",
+    "entities": [
+      {
+        "entity": "鼻导管",
+        "type": "equ",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "entity": "头罩",
+        "type": "equ",
+        "start_idx": 19,
+        "end_idx": 20
+      },
+      {
+        "entity": "给氧",
+        "type": "pro",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "给氧",
+        "type": "pro",
+        "start_idx": 21,
+        "end_idx": 22
+      }
+    ]
+  },
+  {
+    "text": "儿童忌用阿司匹林，因该药有可能引起Reye综合征。",
+    "entities": [
+      {
+        "entity": "阿司匹林",
+        "type": "dru",
+        "start_idx": 4,
+        "end_idx": 7
+      },
+      {
+        "entity": "Reye综合征",
+        "type": "dis",
+        "start_idx": 17,
+        "end_idx": 23
+      }
+    ]
+  },
+  {
+    "text": "流行病学的表现主要是以近距离呼吸道飞沫、接触患者分泌物传播。",
+    "entities": [
+      {
+        "entity": "呼吸道",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "近距离呼吸道飞沫",
+        "type": "sym",
+        "start_idx": 11,
+        "end_idx": 18
+      },
+      {
+        "entity": "接触患者分泌物",
+        "type": "sym",
+        "start_idx": 20,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "专用病区设在病区的一端，病区内分污染区、半污染区、清洁区、危重抢救室等。",
+    "entities": [
+      {
+        "entity": "专用病区",
+        "type": "dep",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "病区",
+        "type": "dep",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "病区",
+        "type": "dep",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "entity": "病区",
+        "type": "dep",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "污染区",
+        "type": "bod",
+        "start_idx": 16,
+        "end_idx": 18
+      },
+      {
+        "entity": "污染区",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "entity": "半污染区",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 23
+      },
+      {
+        "entity": "清洁区",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 27
+      },
+      {
+        "entity": "危重抢救室",
+        "type": "dep",
+        "start_idx": 29,
+        "end_idx": 33
+      }
+    ]
+  },
+  {
+    "text": "2.地面和物体表面消毒每天用含氯消毒剂（有效氯1500mg/2L）拖地2次，24小时保洁。",
+    "entities": [
+      {
+        "entity": "地面和物体表面消毒",
+        "type": "pro",
+        "start_idx": 2,
+        "end_idx": 10
+      },
+      {
+        "entity": "含氯消毒剂",
+        "type": "dru",
+        "start_idx": 14,
+        "end_idx": 18
+      },
+      {
+        "entity": "有效氯",
+        "type": "dru",
+        "start_idx": 20,
+        "end_idx": 22
+      }
+    ]
+  },
+  {
+    "text": "专用病区每个患者的化验单、病历纸用臭氧发生器消毒0.5～1小时后，方可送院病案室归档。",
+    "entities": [
+      {
+        "entity": "臭氧发生器",
+        "type": "equ",
+        "start_idx": 17,
+        "end_idx": 21
+      },
+      {
+        "entity": "化验单",
+        "type": "ite",
+        "start_idx": 9,
+        "end_idx": 11
+      },
+      {
+        "entity": "消毒",
+        "type": "pro",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "专用病区",
+        "type": "dep",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "院病案室",
+        "type": "dep",
+        "start_idx": 36,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "每天喝清热解毒中药，并口服预防量抗病毒药及漱口，具体措施：1.医护人员进入病区进行诊疗护理时，需戴12层棉纱口罩及N95口罩，佩戴时间不超过4小时，潮湿或污染随时立即更换。",
+    "entities": [
+      {
+        "entity": "清热解毒中药",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 8
+      },
+      {
+        "entity": "抗病毒药",
+        "type": "dru",
+        "start_idx": 16,
+        "end_idx": 19
+      },
+      {
+        "entity": "口",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 11
+      },
+      {
+        "entity": "口",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 22
+      },
+      {
+        "entity": "口",
+        "type": "bod",
+        "start_idx": 54,
+        "end_idx": 54
+      },
+      {
+        "entity": "口",
+        "type": "bod",
+        "start_idx": 60,
+        "end_idx": 60
+      },
+      {
+        "entity": "棉纱口罩",
+        "type": "equ",
+        "start_idx": 52,
+        "end_idx": 55
+      },
+      {
+        "entity": "N95口罩",
+        "type": "equ",
+        "start_idx": 57,
+        "end_idx": 61
+      },
+      {
+        "entity": "中药",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 8
+      }
+    ]
+  },
+  {
+    "text": "有实验证明，将受照射小鼠处于分裂近中期的卵细胞和未受照射的同期卵细胞比较，发现染色体不分离在受照射组中明显增高，这一现象在年龄较大的小鼠中尤为明显。",
+    "entities": [
+      {
+        "entity": "小鼠",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "小鼠",
+        "type": "bod",
+        "start_idx": 66,
+        "end_idx": 67
+      },
+      {
+        "entity": "卵细胞",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 22
+      },
+      {
+        "entity": "卵细胞",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 33
+      },
+      {
+        "entity": "染色体",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 41
+      },
+      {
+        "entity": "染色体不分离",
+        "type": "ite",
+        "start_idx": 39,
+        "end_idx": 44
+      }
+    ]
+  },
+  {
+    "text": "5.遗传因素染色体异常可表现有家族性倾向，这提示染色体畸变与遗传有关。",
+    "entities": [
+      {
+        "entity": "染色体",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 8
+      },
+      {
+        "entity": "染色体",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "家族性倾向",
+        "type": "sym",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "染色体畸变",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 28
+      },
+      {
+        "entity": "遗传",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "遗传",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 31
+      }
+    ]
+  },
+  {
+    "text": "病儿体重应以实际测得值为准，年长儿按体重计算如已超过成人量则以成人量为上限。",
+    "entities": [
+      {
+        "entity": "病儿",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "体重",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "体重",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "年长儿",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "成人量",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 28
+      },
+      {
+        "entity": "成人量",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 33
+      }
+    ]
+  },
+  {
+    "text": "参考文献1.中华医学会儿科学会呼吸学组.儿童支气管哮喘诊断和防治指南，2008，46（10）：745-7452.BacharierLB，BonerA，CarlsenKH，etal.Diagnosisandtreatmentofasthmainchildhood：aPRACTALLconsensusreport.Allergy，2008，63（1）：5-53.BrandPLP，BaraldiE，BisgaardH，etal.Definition，assessmentandtreatmentofwheezingdisordersinpreschoolchildren：anevidence-basedapproach.EurRespirJ，2008，32（4）：1096-10964.Expertpanelreport3：guidelinesforthediagnosisandmanagementofasthma.Bethesda，Maryland：NationalInstitutesofHealth，NationalAsthmaEducationandPreventionProgram；2007.NIHPublicationNo.0840515.GlobalInitiativeforAsthma（GINA）.Globalstrategyforasthmamanagementandprevention；2008.Http：//www.ginasthma.org",
+    "entities": []
+  },
+  {
+    "text": "（一）细胞遗传学X染色体长臂27.3带上一个叶酸敏感的部位与FX有关，该部位经特殊处理后可显示脆性断裂，因而被称为脆性部位。",
+    "entities": [
+      {
+        "entity": "X染色体长臂27.3带",
+        "type": "bod",
+        "start_idx": 8,
+        "end_idx": 18
+      },
+      {
+        "entity": "叶酸",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "脆性部位",
+        "type": "bod",
+        "start_idx": 57,
+        "end_idx": 60
+      },
+      {
+        "entity": "细胞遗传学",
+        "type": "dep",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "FX",
+        "type": "mic",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "脆性断裂",
+        "type": "ite",
+        "start_idx": 47,
+        "end_idx": 50
+      }
+    ]
+  },
+  {
+    "text": "FMR-1基因的mRNA的mRNA为4.4kb，编码一个分子量约为69～70kD，由596个氨基酸组成的脆性智能落后蛋白（FMRP），这是一种RNA结合蛋白，在体内多种组织中都表达。",
+    "entities": [
+      {
+        "entity": "氨基酸",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "就智力低下临床表现而言，几乎100%男性FMR-I全突变基因携带者存在智力低下，其中约89%（245/274）为中度智力低下，但仅21%（36/170）女性FMR-I全突变携带者表现出中度智力低下，而且高达59%（100/170），女性FMR-1全突变型携带者并不出现智力低下。",
+    "entities": [
+      {
+        "entity": "智力低下",
+        "type": "sym",
+        "start_idx": 1,
+        "end_idx": 4
+      },
+      {
+        "entity": "智力低下",
+        "type": "sym",
+        "start_idx": 35,
+        "end_idx": 38
+      },
+      {
+        "entity": "智力低下",
+        "type": "sym",
+        "start_idx": 58,
+        "end_idx": 61
+      },
+      {
+        "entity": "智力低下",
+        "type": "sym",
+        "start_idx": 94,
+        "end_idx": 97
+      },
+      {
+        "entity": "智力低下",
+        "type": "sym",
+        "start_idx": 134,
+        "end_idx": 137
+      },
+      {
+        "entity": "中度智力低下",
+        "type": "sym",
+        "start_idx": 56,
+        "end_idx": 61
+      },
+      {
+        "entity": "中度智力低下",
+        "type": "sym",
+        "start_idx": 92,
+        "end_idx": 97
+      }
+    ]
+  },
+  {
+    "text": "因此，在FMR-1基因动态突变家族的FMR-1基因必须考虑FMR-1基因的这种突变特征。",
+    "entities": []
+  },
+  {
+    "text": "2.特殊面容面部瘦长前额突出头围增大眶上饱满虹膜颜色变淡耳大外翻耳大外翻、高腭弓、大嘴、厚唇以及下颌大而突出等。",
+    "entities": [
+      {
+        "entity": "面部",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "entity": "眶上",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "耳",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 28
+      },
+      {
+        "entity": "耳",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 32
+      },
+      {
+        "entity": "高腭弓",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 39
+      },
+      {
+        "entity": "大嘴",
+        "type": "sym",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "厚唇",
+        "type": "sym",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "下颌",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "前额",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "头围",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "虹膜",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "嘴",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 42
+      },
+      {
+        "entity": "唇",
+        "type": "bod",
+        "start_idx": 45,
+        "end_idx": 45
+      }
+    ]
+  },
+  {
+    "text": "PstI内切酶加OXO.55探针可检测CGG重复数较小的前突变。",
+    "entities": [
+      {
+        "entity": "OXO.55探针",
+        "type": "ite",
+        "start_idx": 8,
+        "end_idx": 15
+      },
+      {
+        "entity": "前突变",
+        "type": "dis",
+        "start_idx": 28,
+        "end_idx": 30
+      },
+      {
+        "entity": "CGG重复数",
+        "type": "ite",
+        "start_idx": 19,
+        "end_idx": 24
+      },
+      {
+        "entity": "PstI内切酶",
+        "type": "equ",
+        "start_idx": 0,
+        "end_idx": 6
+      }
+    ]
+  },
+  {
+    "text": "DSA目的是观察畸形的部位、大小、形态、供血动脉、引流静脉、窃血现象及正常脑组织的血供情况等，为诊断、治疗及预后提供依据。",
+    "entities": [
+      {
+        "entity": "DSA",
+        "type": "pro",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "脑组织",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "根据供血动脉形态及来源、瘤内血管形态和病理循环特点以及邻近脑血管移位情况等，可能作出病理诊断。",
+    "entities": [
+      {
+        "entity": "邻近脑血管",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 31
+      },
+      {
+        "entity": "脑血管",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 31
+      }
+    ]
+  },
+  {
+    "text": "直接涂片革兰染色法可初步提供临床考虑使用何种抗生素，以及调整其他针对性治疗方案。",
+    "entities": [
+      {
+        "entity": "涂片革兰染色法",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 8
+      },
+      {
+        "entity": "抗生素",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "6.动物实验是临床细菌学检验中不可缺少的一部分，其主要用途是分离与鉴定病原微生物，测定毒力，制备免疫血清等。",
+    "entities": [
+      {
+        "entity": "临床细菌学检验",
+        "type": "ite",
+        "start_idx": 7,
+        "end_idx": 13
+      },
+      {
+        "entity": "病原微生物",
+        "type": "mic",
+        "start_idx": 35,
+        "end_idx": 39
+      },
+      {
+        "entity": "动物实验",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "免疫血清",
+        "type": "ite",
+        "start_idx": 48,
+        "end_idx": 51
+      },
+      {
+        "entity": "毒力",
+        "type": "ite",
+        "start_idx": 43,
+        "end_idx": 44
+      },
+      {
+        "entity": "制备免疫血清",
+        "type": "pro",
+        "start_idx": 46,
+        "end_idx": 51
+      }
+    ]
+  },
+  {
+    "text": "事实上，5%～10%的酶活性就可以使该酶所催化的代谢反应正常进行，并维持底物和产物在适当的水平上。",
+    "entities": []
+  },
+  {
+    "text": "例如在苯丙酮尿症时，苯丙氨酸羟化酶缺乏代谢旁路开放，代谢产物苯乙酸及苯乳酸增高这些物质的毒性作用造成了神经系统的损害造成产物皮质醇及醛固酮缺乏水、电解质紊乱和休克，同时导致睾酮升高底物堆积，或产物缺乏，或旁路代谢产物产生为主，产生病理损害。",
+    "entities": [
+      {
+        "entity": "苯丙酮尿症",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "苯丙氨酸",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 13
+      },
+      {
+        "entity": "苯乙酸",
+        "type": "dru",
+        "start_idx": 30,
+        "end_idx": 32
+      },
+      {
+        "entity": "苯乳酸",
+        "type": "dru",
+        "start_idx": 34,
+        "end_idx": 36
+      },
+      {
+        "entity": "神经系统",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 54
+      },
+      {
+        "entity": "水",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 71
+      },
+      {
+        "entity": "电解质",
+        "type": "bod",
+        "start_idx": 73,
+        "end_idx": 75
+      },
+      {
+        "entity": "睾酮",
+        "type": "dru",
+        "start_idx": 86,
+        "end_idx": 87
+      },
+      {
+        "entity": "神经系统的损害",
+        "type": "sym",
+        "start_idx": 51,
+        "end_idx": 57
+      },
+      {
+        "entity": "水、电解质紊乱",
+        "type": "sym",
+        "start_idx": 71,
+        "end_idx": 77
+      },
+      {
+        "entity": "休克",
+        "type": "sym",
+        "start_idx": 79,
+        "end_idx": 80
+      },
+      {
+        "entity": "苯丙氨酸羟化酶",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 16
+      },
+      {
+        "entity": "皮质醇",
+        "type": "bod",
+        "start_idx": 62,
+        "end_idx": 64
+      },
+      {
+        "entity": "醛固酮",
+        "type": "bod",
+        "start_idx": 66,
+        "end_idx": 68
+      }
+    ]
+  },
+  {
+    "text": "有些遗传代谢病在婴儿早期即可有典型表现，如在新生儿期出现喂养困难、呼吸异常、酸中毒、高氨血症、黄疸不退、脱水、电解质异常、持续呕吐、低血糖、肝大、惊厥以及尿中有持续臭味，对于不能用一般疾病解释的临床表现，应疑为遗传代谢病，并做进一步检查。",
+    "entities": [
+      {
+        "entity": "遗传代谢病",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "遗传代谢病",
+        "type": "dis",
+        "start_idx": 105,
+        "end_idx": 109
+      },
+      {
+        "entity": "喂养困难",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 31
+      },
+      {
+        "entity": "呼吸异常",
+        "type": "sym",
+        "start_idx": 33,
+        "end_idx": 36
+      },
+      {
+        "entity": "酸中毒",
+        "type": "sym",
+        "start_idx": 38,
+        "end_idx": 40
+      },
+      {
+        "entity": "高氨血症",
+        "type": "sym",
+        "start_idx": 42,
+        "end_idx": 45
+      },
+      {
+        "entity": "黄疸不退",
+        "type": "sym",
+        "start_idx": 47,
+        "end_idx": 50
+      },
+      {
+        "entity": "脱水",
+        "type": "sym",
+        "start_idx": 52,
+        "end_idx": 53
+      },
+      {
+        "entity": "电解质异常",
+        "type": "sym",
+        "start_idx": 55,
+        "end_idx": 59
+      },
+      {
+        "entity": "持续呕吐",
+        "type": "sym",
+        "start_idx": 61,
+        "end_idx": 64
+      },
+      {
+        "entity": "低血糖",
+        "type": "sym",
+        "start_idx": 66,
+        "end_idx": 68
+      },
+      {
+        "entity": "肝大",
+        "type": "sym",
+        "start_idx": 70,
+        "end_idx": 71
+      },
+      {
+        "entity": "惊厥",
+        "type": "sym",
+        "start_idx": 73,
+        "end_idx": 74
+      },
+      {
+        "entity": "尿中有持续臭味",
+        "type": "ite",
+        "start_idx": 77,
+        "end_idx": 83
+      }
+    ]
+  },
+  {
+    "text": "当怀疑患有蛋白质不耐受症时，应立即停止摄入蛋白质。",
+    "entities": [
+      {
+        "entity": "蛋白质不耐受症",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 11
+      },
+      {
+        "entity": "蛋白质",
+        "type": "dru",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "蛋白质",
+        "type": "dru",
+        "start_idx": 21,
+        "end_idx": 23
+      }
+    ]
+  },
+  {
+    "text": "如果临床改善，最后诊断又不明确者在完全限制蛋白质摄入2～3天后，应给予一些氨基酸，开始可口服或静滴必需氨基酸或总蛋白每日0.5g/kg，以后逐渐增加到每日1.0g/kg，并维持到明确诊断，然后制订一个长期的治疗计划。",
+    "entities": [
+      {
+        "entity": "氨基酸",
+        "type": "dru",
+        "start_idx": 37,
+        "end_idx": 39
+      },
+      {
+        "entity": "氨基酸",
+        "type": "dru",
+        "start_idx": 51,
+        "end_idx": 53
+      },
+      {
+        "entity": "必需氨基酸",
+        "type": "dru",
+        "start_idx": 49,
+        "end_idx": 53
+      },
+      {
+        "entity": "总蛋白",
+        "type": "dru",
+        "start_idx": 55,
+        "end_idx": 57
+      },
+      {
+        "entity": "口服",
+        "type": "pro",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "静滴",
+        "type": "pro",
+        "start_idx": 47,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "图14-3新生儿高氨血症鉴别诊断图ASA：精氨酸琥珀酸图14-4婴儿代谢性酸中毒鉴别诊断图L∶P为乳酸∶丙酮酸PEP，磷酸烯醇丙酮酸婴儿期丙酮酸代谢或呼吸链中的酶缺陷可引起原发性乳酸酸中毒，表现为重度代谢性酸中毒。",
+    "entities": []
+  },
+  {
+    "text": "目前有趋势将全血血糖＜2.2mmol/L（40mg/dl）新生儿低血糖症。",
+    "entities": [
+      {
+        "entity": "全血血糖",
+        "type": "ite",
+        "start_idx": 6,
+        "end_idx": 9
+      },
+      {
+        "entity": "新生儿低血糖症",
+        "type": "dis",
+        "start_idx": 29,
+        "end_idx": 35
+      },
+      {
+        "entity": "mmol/L",
+        "type": "dru",
+        "start_idx": 14,
+        "end_idx": 19
+      },
+      {
+        "entity": "mg/dl",
+        "type": "dru",
+        "start_idx": 23,
+        "end_idx": 27
+      }
+    ]
+  },
+  {
+    "text": "患脂肪酸乙酰辅酶A脱氢酶缺乏病的婴儿都可能出现心律失常和心脏骤停。",
+    "entities": [
+      {
+        "entity": "脂肪酸乙酰辅酶A脱氢酶缺乏病",
+        "type": "dis",
+        "start_idx": 1,
+        "end_idx": 14
+      },
+      {
+        "entity": "心律失常",
+        "type": "sym",
+        "start_idx": 23,
+        "end_idx": 26
+      },
+      {
+        "entity": "心脏骤停",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 31
+      }
+    ]
+  },
+  {
+    "text": "体重低于2kg或窒息儿复苏困难或延长时，尽快给予5%～10%葡萄糖液2～6ml/kg。",
+    "entities": [
+      {
+        "entity": "葡萄糖液",
+        "type": "dru",
+        "start_idx": 30,
+        "end_idx": 33
+      }
+    ]
+  },
+  {
+    "text": "多数支原体生长缓慢，初次分离培养时，需1周左右或更长时间才能观察出生长现象。",
+    "entities": [
+      {
+        "entity": "支原体",
+        "type": "mic",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ]
+  },
+  {
+    "text": "（四）血清学检测人类经支原体感染后，血清中可出现具有保护性的表面抗原的抗体，同时尚可有部分患儿非特异性冷凝集和GM株链球菌凝集素增高。",
+    "entities": [
+      {
+        "entity": "血清学检测",
+        "type": "ite",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "人类经支原体",
+        "type": "mic",
+        "start_idx": 8,
+        "end_idx": 13
+      },
+      {
+        "entity": "血清",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "血清",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "GM株链球菌",
+        "type": "mic",
+        "start_idx": 55,
+        "end_idx": 60
+      },
+      {
+        "entity": "支原体",
+        "type": "mic",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "抗体",
+        "type": "dru",
+        "start_idx": 35,
+        "end_idx": 36
+      }
+    ]
+  },
+  {
+    "text": "二、触电和雷击【病因】小儿玩弄电器，误触裸露的电线和插头，是导致小儿触电的主要原因。",
+    "entities": [
+      {
+        "entity": "触电",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "触电",
+        "type": "dis",
+        "start_idx": 34,
+        "end_idx": 35
+      },
+      {
+        "entity": "雷击",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "小儿",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 12
+      },
+      {
+        "entity": "小儿",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 33
+      },
+      {
+        "entity": "电器",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      },
+      {
+        "entity": "电线",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "插头",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 27
+      }
+    ]
+  },
+  {
+    "text": "电击伤造成的组织损伤较一般烧伤重，虽然局部温度不高，但强烈的电流产生的电离作用通常会使局部深部肌肉等组织细胞坏死和血管内血液凝固，累及心脑等脏器者很难存活。",
+    "entities": [
+      {
+        "entity": "肌肉",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 48
+      },
+      {
+        "entity": "血管",
+        "type": "bod",
+        "start_idx": 57,
+        "end_idx": 58
+      },
+      {
+        "entity": "心脑",
+        "type": "bod",
+        "start_idx": 67,
+        "end_idx": 68
+      }
+    ]
+  },
+  {
+    "text": "本病临床症状与支气管肺炎相似，但起病较急，全身症状明显如寒战、头痛、肌痛、乏力、发热等，咳嗽剧烈。",
+    "entities": [
+      {
+        "entity": "支气管肺炎",
+        "type": "dis",
+        "start_idx": 7,
+        "end_idx": 11
+      },
+      {
+        "entity": "起病较急",
+        "type": "sym",
+        "start_idx": 16,
+        "end_idx": 19
+      },
+      {
+        "entity": "全身症状",
+        "type": "sym",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "寒战",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 29
+      },
+      {
+        "entity": "头痛",
+        "type": "sym",
+        "start_idx": 31,
+        "end_idx": 32
+      },
+      {
+        "entity": "肌痛",
+        "type": "sym",
+        "start_idx": 34,
+        "end_idx": 35
+      },
+      {
+        "entity": "乏力",
+        "type": "sym",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "发热",
+        "type": "sym",
+        "start_idx": 40,
+        "end_idx": 41
+      },
+      {
+        "entity": "咳嗽剧烈",
+        "type": "sym",
+        "start_idx": 44,
+        "end_idx": 47
+      },
+      {
+        "entity": "咳嗽",
+        "type": "sym",
+        "start_idx": 44,
+        "end_idx": 45
+      }
+    ]
+  },
+  {
+    "text": "不同部位的横纹肌肉瘤各有其临床特点：（一）头颈部头颈部肿瘤根据发生的部位可分为眼眶、脑膜周围和非脑膜周围三种。",
+    "entities": [
+      {
+        "entity": "横纹肌肉瘤",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 9
+      },
+      {
+        "entity": "头颈部",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "entity": "头颈部",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "眼眶",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 40
+      },
+      {
+        "entity": "脑膜周围",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 45
+      },
+      {
+        "entity": "脑膜周围",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 51
+      },
+      {
+        "entity": "非脑膜周围",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 51
+      },
+      {
+        "entity": "头颈部肿瘤",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 28
+      }
+    ]
+  },
+  {
+    "text": "Antidesmin、多特异性肌动蛋白（multispecificactin）、肌红蛋白D（myoglobinD，MyoD）都是最敏感的标记物。",
+    "entities": [
+      {
+        "entity": "Antidesmin",
+        "type": "ite",
+        "start_idx": 0,
+        "end_idx": 9
+      },
+      {
+        "entity": "多特异性肌动蛋白",
+        "type": "ite",
+        "start_idx": 11,
+        "end_idx": 18
+      },
+      {
+        "entity": "肌红蛋白D",
+        "type": "ite",
+        "start_idx": 40,
+        "end_idx": 44
+      }
+    ]
+  },
+  {
+    "text": "【分期】IRS的横纹肌肉瘤分级主要是根据临床，尤其是术前和术中的情况，而肿瘤生物学特征并没能予以反映，因此称其为外科病理分期也不为过。",
+    "entities": [
+      {
+        "entity": "IRS",
+        "type": "ite",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "entity": "横纹肌肉瘤",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 12
+      },
+      {
+        "entity": "术前",
+        "type": "sym",
+        "start_idx": 26,
+        "end_idx": 27
+      },
+      {
+        "entity": "术中",
+        "type": "sym",
+        "start_idx": 29,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "表11-25Lawrence横纹肌肉瘤临床分期表11-26根据Lawrence临床分期的生存率【治疗】横纹肌肉瘤的治疗需要多学科联合进行，包括外科手术、放疗和化疗。",
+    "entities": [
+      {
+        "entity": "横纹肌肉瘤",
+        "type": "dis",
+        "start_idx": 14,
+        "end_idx": 18
+      },
+      {
+        "entity": "横纹肌肉瘤",
+        "type": "dis",
+        "start_idx": 51,
+        "end_idx": 55
+      },
+      {
+        "entity": "放疗",
+        "type": "pro",
+        "start_idx": 76,
+        "end_idx": 77
+      },
+      {
+        "entity": "化疗",
+        "type": "pro",
+        "start_idx": 79,
+        "end_idx": 80
+      },
+      {
+        "entity": "外科手术",
+        "type": "pro",
+        "start_idx": 71,
+        "end_idx": 74
+      }
+    ]
+  },
+  {
+    "text": "1.再切除术如果首次手术有大体或镜下的肿瘤组织残留，或者术中难以确定周围是否侵袭，那么有必要在辅助治疗实施前再度手术，此为再切除术。",
+    "entities": [
+      {
+        "entity": "再切除术",
+        "type": "pro",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "再切除术",
+        "type": "pro",
+        "start_idx": 61,
+        "end_idx": 64
+      },
+      {
+        "entity": "肿瘤",
+        "type": "dis",
+        "start_idx": 19,
+        "end_idx": 20
+      }
+    ]
+  },
+  {
+    "text": "非眼眶、非脑膜周围的肿瘤有浅表或深部之分，但均不侵犯脑膜。",
+    "entities": [
+      {
+        "entity": "眼眶",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 2
+      },
+      {
+        "entity": "脑膜周围",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 8
+      },
+      {
+        "entity": "肿瘤",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 11
+      }
+    ]
+  },
+  {
+    "text": "15%的患者有转移，骨质侵蚀是局部复发的标志。",
+    "entities": [
+      {
+        "entity": "转移",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "骨质",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "局部复发",
+        "type": "sym",
+        "start_idx": 15,
+        "end_idx": 18
+      }
+    ]
+  },
+  {
+    "text": "接受强化治疗的患者无瘤生存从33%增加到57%，而局部肿瘤失控率从28%降到6%。",
+    "entities": [
+      {
+        "entity": "局部肿瘤",
+        "type": "dis",
+        "start_idx": 25,
+        "end_idx": 28
+      },
+      {
+        "entity": "强化治疗",
+        "type": "pro",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "无瘤生存",
+        "type": "sym",
+        "start_idx": 9,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "IRSⅡ和Ⅲ的76名胸壁肿瘤患者，平均诊断年龄为8.5岁，40%为腺泡型，15%为Ⅰ级，20%为Ⅱ级，40%为Ⅲ级，25%为Ⅳ级。",
+    "entities": [
+      {
+        "entity": "胸壁肿瘤",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 13
+      },
+      {
+        "entity": "腺泡型",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 35
+      },
+      {
+        "entity": "IRSⅡ",
+        "type": "equ",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "胸壁",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "Ⅰ级",
+        "type": "dis",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "Ⅱ级",
+        "type": "dis",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "Ⅲ级",
+        "type": "dis",
+        "start_idx": 55,
+        "end_idx": 56
+      },
+      {
+        "entity": "Ⅳ级",
+        "type": "dis",
+        "start_idx": 62,
+        "end_idx": 63
+      }
+    ]
+  },
+  {
+    "text": "14名发现镜下淋巴结转移的儿童，接受适量的放疗后，只有1人复发。",
+    "entities": [
+      {
+        "entity": "淋巴结",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "转移",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 13,
+        "end_idx": 14
+      },
+      {
+        "entity": "放疗",
+        "type": "pro",
+        "start_idx": 21,
+        "end_idx": 22
+      },
+      {
+        "entity": "复发",
+        "type": "dis",
+        "start_idx": 29,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "病人术后要化疗和放疗。",
+    "entities": [
+      {
+        "entity": "化疗",
+        "type": "pro",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "放疗",
+        "type": "pro",
+        "start_idx": 8,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "经腹股沟行睾丸和精索切除，如果术中不能确诊，则先夹住精索血管，保护伤口，切除肿瘤，做冰冻活检。",
+    "entities": [
+      {
+        "entity": "经腹股沟行睾丸和精索切除",
+        "type": "pro",
+        "start_idx": 0,
+        "end_idx": 11
+      },
+      {
+        "entity": "精索血管",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 29
+      },
+      {
+        "entity": "切除肿瘤",
+        "type": "pro",
+        "start_idx": 36,
+        "end_idx": 39
+      },
+      {
+        "entity": "冰冻活检",
+        "type": "ite",
+        "start_idx": 42,
+        "end_idx": 45
+      },
+      {
+        "entity": "夹住精索血管",
+        "type": "pro",
+        "start_idx": 24,
+        "end_idx": 29
+      },
+      {
+        "entity": "精索切除",
+        "type": "pro",
+        "start_idx": 8,
+        "end_idx": 11
+      }
+    ]
+  },
+  {
+    "text": "（六）转移和复发横纹肌肉瘤最常见的转移部位是肺、骨、骨髓、脑、肝、大网膜、胸膜、腹膜以及远处淋巴结。",
+    "entities": [
+      {
+        "entity": "横纹肌肉瘤",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 12
+      },
+      {
+        "entity": "肺",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 22
+      },
+      {
+        "entity": "骨",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 24
+      },
+      {
+        "entity": "骨",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 26
+      },
+      {
+        "entity": "骨髓",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 27
+      },
+      {
+        "entity": "脑",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 29
+      },
+      {
+        "entity": "肝",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 31
+      },
+      {
+        "entity": "大网膜",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 35
+      },
+      {
+        "entity": "胸膜",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "腹膜",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 41
+      },
+      {
+        "entity": "淋巴结",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "该毛细毛细血管瘤常为多发性，平坦或略凸出皮肤，形状不规则，好发于手背和鼻腔黏膜，指压可苍白，易出血。",
+    "entities": [
+      {
+        "entity": "毛细血管瘤",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "皮肤",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "手背",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 33
+      },
+      {
+        "entity": "鼻腔黏膜",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 38
+      },
+      {
+        "entity": "形状不规则",
+        "type": "sym",
+        "start_idx": 23,
+        "end_idx": 27
+      },
+      {
+        "entity": "易出血",
+        "type": "sym",
+        "start_idx": 46,
+        "end_idx": 48
+      },
+      {
+        "entity": "指压可苍白",
+        "type": "sym",
+        "start_idx": 40,
+        "end_idx": 44
+      }
+    ]
+  },
+  {
+    "text": "MAP应用范围一般为5～15cmH<sub>2</sub>O（0.49～1.47kPa）。",
+    "entities": []
+  },
+  {
+    "text": "除增加MAP外，提高FiO<sub>2</sub>也是直接而有效增加PaO<sub>2</sub>的方法。",
+    "entities": [
+      {
+        "entity": "FiO<sub>2</sub>",
+        "type": "equ",
+        "start_idx": 10,
+        "end_idx": 24
+      },
+      {
+        "entity": "PaO<sub>2</sub>",
+        "type": "bod",
+        "start_idx": 34,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "三、基因诊断的策略基因诊断与细胞、病理、生化及免疫等诊断方法比较，其优点是：①在DNA水平了解疾病发生的原因，诊断特异性高；②在个体发育的任何阶段，任何有核细胞都可以进行诊断；③根据突变部位和类型可帮助预测表现型，预后判断；④可诊断致病基因携带者；⑤用于产前诊断；⑥进行准确的遗传咨询；⑦鉴别和分离新基因。",
+    "entities": [
+      {
+        "entity": "基因诊断",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "基因诊断",
+        "type": "ite",
+        "start_idx": 9,
+        "end_idx": 12
+      },
+      {
+        "entity": "DNA",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "产前诊断",
+        "type": "pro",
+        "start_idx": 127,
+        "end_idx": 130
+      }
+    ]
+  },
+  {
+    "text": "所谓连锁是指同一染色体上相互靠近的基因常在一起遗传，它们在遗传中结合在一起的频率大于按照独立分配率期望的频率。",
+    "entities": []
+  },
+  {
+    "text": "颅内高压@压力在180～200mmH2</sub>O，可认为可疑的颅内压增高颅内压增高病理性低颅压，50～70mmH2</sub>O之间为可疑的低颅压。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 37
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 38,
+        "end_idx": 42
+      },
+      {
+        "entity": "低颅压",
+        "type": "dis",
+        "start_idx": 46,
+        "end_idx": 48
+      },
+      {
+        "entity": "低颅压",
+        "type": "dis",
+        "start_idx": 72,
+        "end_idx": 74
+      },
+      {
+        "entity": "颅内",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "颅内",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 34
+      },
+      {
+        "entity": "颅内",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@这些疾病可由于上述四种因素之一种或多种因素而产生颅内压增高。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@脑水肿是临床上各种危重症最常见的中枢神经系统并发症，也是颅内压增高的各种因素中最常见者。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "脑水肿",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "危重症",
+        "type": "sym",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 37
+      },
+      {
+        "entity": "中枢神经系统",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@根据病变的范围不同，脑水肿的部位亦有所不同。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "脑",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 15
+      },
+      {
+        "entity": "脑水肿",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 17
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@病理特点是水肿液中蛋白质增多细胞间隙增宽水肿以白质为主颅内高压@2.细胞毒性脑水肿见于各种原因引起的脑缺血缺氧（呼吸循环暂停及休克等），系细胞代谢障碍所引起。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 32,
+        "end_idx": 35
+      },
+      {
+        "entity": "脑缺血缺氧",
+        "type": "dis",
+        "start_idx": 55,
+        "end_idx": 59
+      },
+      {
+        "entity": "细胞毒性脑水肿",
+        "type": "dis",
+        "start_idx": 39,
+        "end_idx": 45
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@如颅内压增高持续存在或继续发展，视野检查可发现生理盲点扩大，中心视力暗点阵发性黑蒙。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 6,
+        "end_idx": 10
+      },
+      {
+        "entity": "视野检查",
+        "type": "ite",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "生理盲点扩大",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 33
+      },
+      {
+        "entity": "中心视力暗点阵发性黑蒙",
+        "type": "sym",
+        "start_idx": 35,
+        "end_idx": 45
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@颅内压增高严重时，可有生命体征的变化：血压升高脉搏变慢呼吸减慢颅内压增高的危险征兆，提示有发生脑疝之危险。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 9
+      },
+      {
+        "entity": "颅内压增高",
+        "type": "dis",
+        "start_idx": 36,
+        "end_idx": 40
+      },
+      {
+        "entity": "血压",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "脉搏",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 29
+      },
+      {
+        "entity": "呼吸",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 33
+      },
+      {
+        "entity": "脑疝",
+        "type": "dis",
+        "start_idx": 52,
+        "end_idx": 53
+      },
+      {
+        "entity": "血压升高",
+        "type": "sym",
+        "start_idx": 24,
+        "end_idx": 27
+      },
+      {
+        "entity": "脉搏变慢",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 31
+      },
+      {
+        "entity": "呼吸减慢",
+        "type": "sym",
+        "start_idx": 32,
+        "end_idx": 35
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@最常见的脑疝有两类：①小脑幕切迹疝（tentorialnotch），幕上的脑组织（颞叶的海马及钩回）通过小脑幕切迹挤向幕下，又称海马钩回疝；②枕骨大孔疝（tonsillarhernia），幕下的小脑扁桃体及延髓经枕骨大孔疝入椎管内，又称小脑扁桃体疝。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "脑疝",
+        "type": "dis",
+        "start_idx": 9,
+        "end_idx": 10
+      },
+      {
+        "entity": "颞叶",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 47
+      },
+      {
+        "entity": "海马",
+        "type": "bod",
+        "start_idx": 49,
+        "end_idx": 50
+      },
+      {
+        "entity": "海马",
+        "type": "bod",
+        "start_idx": 69,
+        "end_idx": 70
+      },
+      {
+        "entity": "钩回",
+        "type": "bod",
+        "start_idx": 52,
+        "end_idx": 53
+      },
+      {
+        "entity": "钩回",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 72
+      },
+      {
+        "entity": "海马钩回疝",
+        "type": "dis",
+        "start_idx": 69,
+        "end_idx": 73
+      },
+      {
+        "entity": "小脑扁桃体",
+        "type": "bod",
+        "start_idx": 102,
+        "end_idx": 106
+      },
+      {
+        "entity": "小脑扁桃体",
+        "type": "bod",
+        "start_idx": 123,
+        "end_idx": 127
+      },
+      {
+        "entity": "延髓",
+        "type": "bod",
+        "start_idx": 108,
+        "end_idx": 109
+      },
+      {
+        "entity": "小脑扁桃体疝",
+        "type": "dis",
+        "start_idx": 123,
+        "end_idx": 128
+      },
+      {
+        "entity": "小脑幕切迹疝",
+        "type": "dis",
+        "start_idx": 16,
+        "end_idx": 21
+      },
+      {
+        "entity": "小脑",
+        "type": "bod",
+        "start_idx": 16,
+        "end_idx": 17
+      },
+      {
+        "entity": "小脑",
+        "type": "bod",
+        "start_idx": 57,
+        "end_idx": 58
+      },
+      {
+        "entity": "小脑",
+        "type": "bod",
+        "start_idx": 102,
+        "end_idx": 103
+      },
+      {
+        "entity": "小脑",
+        "type": "bod",
+        "start_idx": 123,
+        "end_idx": 124
+      },
+      {
+        "entity": "扁桃体",
+        "type": "bod",
+        "start_idx": 104,
+        "end_idx": 106
+      },
+      {
+        "entity": "扁桃体",
+        "type": "bod",
+        "start_idx": 125,
+        "end_idx": 127
+      },
+      {
+        "entity": "枕骨大孔",
+        "type": "bod",
+        "start_idx": 76,
+        "end_idx": 79
+      },
+      {
+        "entity": "枕骨大孔",
+        "type": "bod",
+        "start_idx": 111,
+        "end_idx": 114
+      },
+      {
+        "entity": "枕骨大孔疝",
+        "type": "dis",
+        "start_idx": 76,
+        "end_idx": 80
+      },
+      {
+        "entity": "枕骨大孔疝",
+        "type": "dis",
+        "start_idx": 111,
+        "end_idx": 115
+      }
+    ]
+  },
+  {
+    "text": "颅内高压@（一）神经影像学检查头颅CT检查安全、方便、无创伤，可以了解有无颅内占位性病变或其他病变、中线是否移位以及脑室是否受压变形，有无脑实质饱满脑沟消失外侧裂变窄或消失等脑水肿征象。",
+    "entities": [
+      {
+        "entity": "颅内高压",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "头颅CT检查",
+        "type": "ite",
+        "start_idx": 15,
+        "end_idx": 20
+      },
+      {
+        "entity": "颅内",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "颅内",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "颅内占位性病变",
+        "type": "dis",
+        "start_idx": 37,
+        "end_idx": 43
+      },
+      {
+        "entity": "中线",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 51
+      },
+      {
+        "entity": "脑室",
+        "type": "bod",
+        "start_idx": 58,
+        "end_idx": 59
+      },
+      {
+        "entity": "脑实质",
+        "type": "bod",
+        "start_idx": 69,
+        "end_idx": 71
+      },
+      {
+        "entity": "脑水肿",
+        "type": "dis",
+        "start_idx": 87,
+        "end_idx": 89
+      },
+      {
+        "entity": "脑沟",
+        "type": "bod",
+        "start_idx": 74,
+        "end_idx": 75
+      }
+    ]
+  },
+  {
+    "text": "任何性发育特征初显年龄较正常儿童平均年龄提前2个标准差以上，即儿童性发育启动年龄显著提前者称为性早熟（precociouspuberty）。",
+    "entities": [
+      {
+        "entity": "性早熟",
+        "type": "dis",
+        "start_idx": 47,
+        "end_idx": 49
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 32
+      },
+      {
+        "entity": "性发育特征",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ]
+  },
+  {
+    "text": "【病理生理和发病机制】（一）下丘脑-垂体-性腺轴人体从胎儿经青春期到完全的性成熟和生育这一成长过程中，下丘脑（促性腺激素释放激素，GnRH）-垂体（促性腺激素，Gn）-性腺（性激素）轴（HPG轴）的调控和激活也相应发生一系列变化。",
+    "entities": [
+      {
+        "entity": "下丘脑",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "下丘脑",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 53
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 72
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 22
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 57
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 75,
+        "end_idx": 76
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 84,
+        "end_idx": 85
+      },
+      {
+        "entity": "促性腺激素释放激素",
+        "type": "ite",
+        "start_idx": 55,
+        "end_idx": 63
+      },
+      {
+        "entity": "促性腺激素",
+        "type": "ite",
+        "start_idx": 55,
+        "end_idx": 59
+      },
+      {
+        "entity": "促性腺激素",
+        "type": "ite",
+        "start_idx": 74,
+        "end_idx": 78
+      },
+      {
+        "entity": "性激素",
+        "type": "bod",
+        "start_idx": 87,
+        "end_idx": 89
+      },
+      {
+        "entity": "HPG轴",
+        "type": "bod",
+        "start_idx": 93,
+        "end_idx": 96
+      }
+    ]
+  },
+  {
+    "text": "此时，因胎盘大量分泌性激素和胎儿中枢神经系统已具备抑制功能，两种调控机制作用使活跃的下丘脑-垂体-性腺轴受到负反馈作用而被抑制。",
+    "entities": [
+      {
+        "entity": "胎盘",
+        "type": "bod",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "entity": "胎儿",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "下丘脑",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 44
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 47
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 49,
+        "end_idx": 50
+      },
+      {
+        "entity": "中枢神经系统",
+        "type": "bod",
+        "start_idx": 16,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "出生后，来自胎盘的性激素中断，负反馈作用减弱，故Gn分泌再度增加中枢神经系统内在的抑制机制和性激素的负反馈作用使下丘脑-垂体-性腺轴保持抑制状态。",
+    "entities": [
+      {
+        "entity": "胎盘",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "entity": "性激素",
+        "type": "dru",
+        "start_idx": 9,
+        "end_idx": 11
+      },
+      {
+        "entity": "性激素",
+        "type": "dru",
+        "start_idx": 46,
+        "end_idx": 48
+      },
+      {
+        "entity": "中枢神经系统",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 37
+      },
+      {
+        "entity": "下丘脑",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 58
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 60,
+        "end_idx": 61
+      },
+      {
+        "entity": "性腺",
+        "type": "bod",
+        "start_idx": 63,
+        "end_idx": 64
+      }
+    ]
+  },
+  {
+    "text": "故青春期GnRH脉冲式释放频率的增加使LH/FSH的比值增加，LH/FSH的比值乳房增大睾丸增大出现阴毛、月经和阴茎的增大乳房增大月经初潮平均历时2～2.5年。",
+    "entities": [
+      {
+        "entity": "乳房",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 41
+      },
+      {
+        "entity": "乳房",
+        "type": "bod",
+        "start_idx": 61,
+        "end_idx": 62
+      },
+      {
+        "entity": "睾丸",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "阴毛",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 51
+      },
+      {
+        "entity": "月经",
+        "type": "bod",
+        "start_idx": 53,
+        "end_idx": 54
+      },
+      {
+        "entity": "月经",
+        "type": "bod",
+        "start_idx": 65,
+        "end_idx": 66
+      },
+      {
+        "entity": "阴茎",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 57
+      },
+      {
+        "entity": "月经初潮",
+        "type": "sym",
+        "start_idx": 65,
+        "end_idx": 68
+      }
+    ]
+  },
+  {
+    "text": "不同年龄性别的血清E2/T的正常值（表15-15）。",
+    "entities": [
+      {
+        "entity": "血清E2/T",
+        "type": "ite",
+        "start_idx": 7,
+        "end_idx": 12
+      },
+      {
+        "entity": "年龄",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "性别",
+        "type": "bod",
+        "start_idx": 4,
+        "end_idx": 5
+      }
+    ]
+  },
+  {
+    "text": "中枢性性早熟儿童体内激素的改变类似于正常青春期开始时的改变。",
+    "entities": [
+      {
+        "entity": "中枢性性早熟",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "entity": "激素",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "正常青春期开始时的改变",
+        "type": "sym",
+        "start_idx": 18,
+        "end_idx": 28
+      }
+    ]
+  },
+  {
+    "text": "此外，环境雌激素污染问题可能与此也相关，即一些非甾体类激素样物质影响相关激素受体的敏感性，由此干扰性腺功能。",
+    "entities": [
+      {
+        "entity": "环境雌激素",
+        "type": "mic",
+        "start_idx": 3,
+        "end_idx": 7
+      },
+      {
+        "entity": "非甾体类激素",
+        "type": "dru",
+        "start_idx": 23,
+        "end_idx": 28
+      },
+      {
+        "entity": "激素受体",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "下丘脑的症状或体征，如尿崩症、渴感缺乏、高热、不正常的哭笑（痴笑样癫痫）、肥胖以及恶液质，均提示可能有颅内病变。",
+    "entities": [
+      {
+        "entity": "下丘脑",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "尿崩症",
+        "type": "sym",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "渴感缺乏",
+        "type": "sym",
+        "start_idx": 15,
+        "end_idx": 18
+      },
+      {
+        "entity": "高热",
+        "type": "sym",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "痴笑样癫痫",
+        "type": "sym",
+        "start_idx": 30,
+        "end_idx": 34
+      },
+      {
+        "entity": "肥胖",
+        "type": "sym",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "恶液质",
+        "type": "sym",
+        "start_idx": 41,
+        "end_idx": 43
+      },
+      {
+        "entity": "颅内病变",
+        "type": "dis",
+        "start_idx": 51,
+        "end_idx": 54
+      }
+    ]
+  },
+  {
+    "text": "2.促性腺激素释放激素（GnRH）兴奋试验亦称LHRH兴奋试验，其原理是通过GnRH刺激垂体分泌LH和FSH，从而评价垂体促性腺激素细胞储备功能，本试验对性腺轴功能已启动而促性腺激素基础值不升高者是重要的诊断手段，对鉴别中枢性与外周性性早熟具有重要意义。",
+    "entities": [
+      {
+        "entity": "LHRH兴奋试验",
+        "type": "ite",
+        "start_idx": 23,
+        "end_idx": 30
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "垂体",
+        "type": "bod",
+        "start_idx": 59,
+        "end_idx": 60
+      },
+      {
+        "entity": "GnRH",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 15
+      },
+      {
+        "entity": "GnRH",
+        "type": "dru",
+        "start_idx": 38,
+        "end_idx": 41
+      },
+      {
+        "entity": "LH",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "LH",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "FSH",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 53
+      },
+      {
+        "entity": "促性腺激素细胞",
+        "type": "bod",
+        "start_idx": 61,
+        "end_idx": 67
+      },
+      {
+        "entity": "性腺轴",
+        "type": "bod",
+        "start_idx": 77,
+        "end_idx": 79
+      },
+      {
+        "entity": "性早熟",
+        "type": "dis",
+        "start_idx": 117,
+        "end_idx": 119
+      },
+      {
+        "entity": "外周性性早熟",
+        "type": "dis",
+        "start_idx": 114,
+        "end_idx": 119
+      },
+      {
+        "entity": "促性腺激素释放激素",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "对于神经系统的其他病变，治疗应取决于病变的性质和部位进行手术摘除，或化疗及放疗。",
+    "entities": [
+      {
+        "entity": "神经系统",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "手术摘除",
+        "type": "pro",
+        "start_idx": 28,
+        "end_idx": 31
+      },
+      {
+        "entity": "化疗",
+        "type": "dru",
+        "start_idx": 34,
+        "end_idx": 35
+      },
+      {
+        "entity": "放疗",
+        "type": "pro",
+        "start_idx": 37,
+        "end_idx": 38
+      }
+    ]
+  },
+  {
+    "text": "但变形杆菌凝集试验是一种非特异的试验，在钩端螺旋体病、布鲁菌病、包柔螺旋体感染（莱姆病）、伤寒以及严重肝病和偶于妊娠时也可呈现阳性结果。",
+    "entities": [
+      {
+        "entity": "变形杆菌",
+        "type": "mic",
+        "start_idx": 1,
+        "end_idx": 4
+      },
+      {
+        "entity": "凝集试验",
+        "type": "ite",
+        "start_idx": 5,
+        "end_idx": 8
+      },
+      {
+        "entity": "钩端螺旋体病",
+        "type": "dis",
+        "start_idx": 20,
+        "end_idx": 25
+      },
+      {
+        "entity": "包柔螺旋体",
+        "type": "mic",
+        "start_idx": 32,
+        "end_idx": 36
+      },
+      {
+        "entity": "莱姆病",
+        "type": "dis",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "伤寒",
+        "type": "dis",
+        "start_idx": 45,
+        "end_idx": 46
+      },
+      {
+        "entity": "严重肝病",
+        "type": "dis",
+        "start_idx": 49,
+        "end_idx": 52
+      },
+      {
+        "entity": "妊娠",
+        "type": "dis",
+        "start_idx": 56,
+        "end_idx": 57
+      },
+      {
+        "entity": "布鲁菌病",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "【病因】遗尿症不是一种疾病，而是有多种原因所致的一个症状，其发生的因素包括遗传、心理和社会因素、睡眠状况、膀胱功能性容量等。",
+    "entities": [
+      {
+        "entity": "膀胱",
+        "type": "bod",
+        "start_idx": 53,
+        "end_idx": 54
+      },
+      {
+        "entity": "膀胱功能性容量",
+        "type": "bod",
+        "start_idx": 53,
+        "end_idx": 59
+      }
+    ]
+  },
+  {
+    "text": "（一）遗传因素遗尿症儿童常有家族史，单卵双胎的孪生儿共同发病的概率高于双卵双胎者，双亲有遗尿症者，在后代中发现有遗尿症者达77%；父母中1人有遗尿症者，子女患遗尿症为44%。",
+    "entities": [
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 44,
+        "end_idx": 46
+      },
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 56,
+        "end_idx": 58
+      },
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 71,
+        "end_idx": 73
+      },
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 79,
+        "end_idx": 81
+      },
+      {
+        "entity": "孪生儿",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 25
+      },
+      {
+        "entity": "双卵双胎",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 38
+      },
+      {
+        "entity": "双亲",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "父母",
+        "type": "bod",
+        "start_idx": 65,
+        "end_idx": 66
+      },
+      {
+        "entity": "子女",
+        "type": "bod",
+        "start_idx": 76,
+        "end_idx": 77
+      },
+      {
+        "entity": "双卵双胎者",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "这些早产儿除了有遗尿之外，还往往伴随其他的问题，如注意缺陷多动障碍，有学者提示这可能是轻微神经损伤的缘故。",
+    "entities": [
+      {
+        "entity": "早产儿",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "遗尿",
+        "type": "sym",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "注意缺陷多动障碍",
+        "type": "dis",
+        "start_idx": 25,
+        "end_idx": 32
+      },
+      {
+        "entity": "神经",
+        "type": "bod",
+        "start_idx": 45,
+        "end_idx": 46
+      },
+      {
+        "entity": "神经损伤",
+        "type": "mic",
+        "start_idx": 45,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "（五）膀胱容量小遗尿症儿童的膀胱容量较无遗尿的同龄儿童小。",
+    "entities": [
+      {
+        "entity": "膀胱容量小遗尿症",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 10
+      },
+      {
+        "entity": "膀胱",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "膀胱",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "同龄儿童",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "【治疗】遗尿症应强调综合性的治疗，其内容包括：（一）心理支持和健康教育首先，要对患儿及其家庭提供适当的心理支持和健康教育，寻找家庭环境中的紧张因素，询问患儿对遗尿的想法，向家庭和患儿解释遗尿的原因，进行对症治疗，并掌握患儿遗尿的规律，设法使患儿在觉醒状态下排尿。",
+    "entities": [
+      {
+        "entity": "遗尿症",
+        "type": "dis",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 41
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 76,
+        "end_idx": 77
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 89,
+        "end_idx": 90
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 109,
+        "end_idx": 110
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 120,
+        "end_idx": 121
+      },
+      {
+        "entity": "家庭",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "家庭",
+        "type": "bod",
+        "start_idx": 63,
+        "end_idx": 64
+      },
+      {
+        "entity": "家庭",
+        "type": "bod",
+        "start_idx": 86,
+        "end_idx": 87
+      },
+      {
+        "entity": "对症治疗",
+        "type": "dru",
+        "start_idx": 101,
+        "end_idx": 104
+      }
+    ]
+  },
+  {
+    "text": "2.强化当患儿未出现尿床时，在日程表上贴红星以表示表扬，增强患儿控制遗尿的信心和能力；当患儿出现尿床时，则在次日要求其与家长一起清洁床铺和衣物。",
+    "entities": [
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "尿床",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "尿床",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "床铺",
+        "type": "bod",
+        "start_idx": 66,
+        "end_idx": 67
+      },
+      {
+        "entity": "衣物",
+        "type": "bod",
+        "start_idx": 69,
+        "end_idx": 70
+      }
+    ]
+  },
+  {
+    "text": "报警器使用过程中应记录每晚报警叫唤的次数，描述尿渍的大小，从遗尿次数的减少或尿渍变小反映改善的情况，当患儿连续两周无遗尿时，则进入下一阶段的治疗，即在睡前给患儿饮450～900ml的液量，患儿如果膀胱容量较小，液体宜逐渐增多，每次增加60ml左右，夜间仍使用报警器，尽管在下一阶段开始时可使患儿再度出现遗尿，但经过数周后，遗尿现象可消失，当患儿又有连续2周无遗尿，则可停止使用报警器，而且睡前无须再饮水。",
+    "entities": [
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 52
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 78,
+        "end_idx": 79
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 94,
+        "end_idx": 95
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 145,
+        "end_idx": 146
+      },
+      {
+        "entity": "患儿",
+        "type": "bod",
+        "start_idx": 170,
+        "end_idx": 171
+      },
+      {
+        "entity": "液量",
+        "type": "dru",
+        "start_idx": 91,
+        "end_idx": 92
+      },
+      {
+        "entity": "报警器",
+        "type": "equ",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "报警器",
+        "type": "equ",
+        "start_idx": 129,
+        "end_idx": 131
+      },
+      {
+        "entity": "报警器",
+        "type": "equ",
+        "start_idx": 188,
+        "end_idx": 190
+      }
+    ]
+  },
+  {
+    "text": "其发病率占所有先天性心脏病的5%～7%，男性多见，约60%～70%。",
+    "entities": [
+      {
+        "entity": "先天性心脏病",
+        "type": "dis",
+        "start_idx": 7,
+        "end_idx": 12
+      },
+      {
+        "entity": "男性",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "60%～70%",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 32
+      }
+    ]
+  },
+  {
+    "text": "当室间隔完整时，室间隔平直，失去正常的曲面，同时左右心室流出道相互平行。",
+    "entities": [
+      {
+        "entity": "室间隔",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "室间隔",
+        "type": "bod",
+        "start_idx": 8,
+        "end_idx": 10
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 27
+      }
+    ]
+  },
+  {
+    "text": "这些左室指标在决定外科手术方案时具有重要意义。",
+    "entities": [
+      {
+        "entity": "左室",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "左室指标",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "外科手术",
+        "type": "pro",
+        "start_idx": 9,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "此类方法是假设观察者从非面对窦（non-facingsinuses）部位面向肺动脉干，在其右手侧者称为1号窦或右手窦；左手侧者则称为2号窦或左手窦。",
+    "entities": [
+      {
+        "entity": "肺动脉干",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 41
+      },
+      {
+        "entity": "右手",
+        "type": "bod",
+        "start_idx": 45,
+        "end_idx": 46
+      },
+      {
+        "entity": "右手",
+        "type": "bod",
+        "start_idx": 55,
+        "end_idx": 56
+      },
+      {
+        "entity": "左手",
+        "type": "bod",
+        "start_idx": 59,
+        "end_idx": 60
+      },
+      {
+        "entity": "左手",
+        "type": "bod",
+        "start_idx": 70,
+        "end_idx": 71
+      },
+      {
+        "entity": "1号窦",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 53
+      },
+      {
+        "entity": "2号窦",
+        "type": "bod",
+        "start_idx": 66,
+        "end_idx": 68
+      }
+    ]
+  },
+  {
+    "text": "除了壁内冠状动脉畸形外，绝大多数冠状动脉畸形不影响大动脉转换手术（Swith手术）。",
+    "entities": [
+      {
+        "entity": "壁内冠状动脉畸形",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 9
+      },
+      {
+        "entity": "大动脉转换手术",
+        "type": "pro",
+        "start_idx": 25,
+        "end_idx": 31
+      },
+      {
+        "entity": "Swith手术",
+        "type": "pro",
+        "start_idx": 33,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "当有左心室流出道梗阻或肺血管阻力增高时将导致肺血减少。",
+    "entities": [
+      {
+        "entity": "左心室",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "流出道梗阻",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 9
+      },
+      {
+        "entity": "肺血管",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "肺血减少",
+        "type": "sym",
+        "start_idx": 22,
+        "end_idx": 25
+      },
+      {
+        "entity": "肺血管阻力增高",
+        "type": "dis",
+        "start_idx": 11,
+        "end_idx": 17
+      },
+      {
+        "entity": "左心室流出道梗阻",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "新生儿早期肺血管阻力高时，动脉导管血流呈双向，随着肺血管阻力的下降，分流逐渐从压力高的体循环向肺循环单向进行。",
+    "entities": [
+      {
+        "entity": "动脉导管",
+        "type": "bod",
+        "start_idx": 13,
+        "end_idx": 16
+      },
+      {
+        "entity": "体循环",
+        "type": "bod",
+        "start_idx": 43,
+        "end_idx": 45
+      },
+      {
+        "entity": "肺循环",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 49
+      },
+      {
+        "entity": "肺血管",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "肺血管",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 27
+      },
+      {
+        "entity": "肺血管阻力高",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "大多数伴有大室间隔缺损的患儿在1岁时可出现严重的肺血管疾病，甚至一些不伴有室间隔缺损的患儿也存在广泛的肺血管组织异常改变。",
+    "entities": [
+      {
+        "entity": "肺血管疾病",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 28
+      },
+      {
+        "entity": "大室间隔缺损",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 10
+      },
+      {
+        "entity": "肺血管组织",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 55
+      },
+      {
+        "entity": "肺血管",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "肺血管",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 53
+      }
+    ]
+  },
+  {
+    "text": "在剑突下通过改变探头方向可同时显示2条大动脉分别自左右心室发出，平行上行（图9-9）。",
+    "entities": [
+      {
+        "entity": "剑突",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 2
+      },
+      {
+        "entity": "大动脉",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 21
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 28
+      },
+      {
+        "entity": "心室",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 28
+      }
+    ]
+  },
+  {
+    "text": "多普勒超声可显示流出道梗阻的严重程度。",
+    "entities": [
+      {
+        "entity": "多普勒超声",
+        "type": "equ",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "entity": "流出道梗阻",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "其次，超声还可探查到一些重要的冠脉异常，如单一冠脉，冠脉在主动脉壁内的行进部分。",
+    "entities": [
+      {
+        "entity": "超声",
+        "type": "equ",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "冠脉",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      },
+      {
+        "entity": "冠脉",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "冠脉",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 27
+      },
+      {
+        "entity": "单一冠脉",
+        "type": "sym",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "主动脉壁",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 32
+      }
+    ]
+  },
+  {
+    "text": "左心室长轴位造影可显示左心室流出道梗阻。",
+    "entities": [
+      {
+        "entity": "左心室长轴位造影",
+        "type": "pro",
+        "start_idx": 0,
+        "end_idx": 7
+      },
+      {
+        "entity": "左心室",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "左心室",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "左心室流出道梗阻",
+        "type": "dis",
+        "start_idx": 11,
+        "end_idx": 18
+      }
+    ]
+  },
+  {
+    "text": "在X线或超声心动图的直视监控下，导管自股静脉插入，经下腔静脉至右心房后推开卵圆孔帘膜进入左心房（图9-9），确定导管位于左房后使球囊膨胀，再轻巧快速地回拉导管，使球囊撕裂房间隔。",
+    "entities": [
+      {
+        "entity": "X线",
+        "type": "equ",
+        "start_idx": 1,
+        "end_idx": 2
+      },
+      {
+        "entity": "超声心动图",
+        "type": "equ",
+        "start_idx": 4,
+        "end_idx": 8
+      },
+      {
+        "entity": "股静脉",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 21
+      },
+      {
+        "entity": "下腔静脉",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 29
+      },
+      {
+        "entity": "右心房",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 33
+      },
+      {
+        "entity": "卵圆孔帘膜",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 41
+      },
+      {
+        "entity": "左心房",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 46
+      },
+      {
+        "entity": "球囊膨胀",
+        "type": "pro",
+        "start_idx": 64,
+        "end_idx": 67
+      },
+      {
+        "entity": "回拉导管",
+        "type": "pro",
+        "start_idx": 75,
+        "end_idx": 78
+      },
+      {
+        "entity": "房间隔",
+        "type": "bod",
+        "start_idx": 85,
+        "end_idx": 87
+      }
+    ]
+  },
+  {
+    "text": "1.室间隔完整的大动脉转位对于室间隔完整的大动脉转位患儿，在生后一月内可行大动脉转换术，最佳手术时间是在生后1～2周。",
+    "entities": [
+      {
+        "entity": "室间隔",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "室间隔",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "大动脉转位",
+        "type": "bod",
+        "start_idx": 8,
+        "end_idx": 12
+      },
+      {
+        "entity": "大动脉转位",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 25
+      },
+      {
+        "entity": "室间隔完整",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "室间隔完整",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "大动脉转换术",
+        "type": "pro",
+        "start_idx": 37,
+        "end_idx": 42
+      },
+      {
+        "entity": "室间隔完整的大动脉转位",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 12
+      },
+      {
+        "entity": "室间隔完整的大动脉转位",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 25
+      }
+    ]
+  },
+  {
+    "text": "病例选择时需要求有足够大的室间隔缺损，以确保术后左心室流出道的通畅，有必要时将前侧的肌部室间隔切去，以扩大室间隔缺损。",
+    "entities": [
+      {
+        "entity": "室间隔缺损",
+        "type": "dis",
+        "start_idx": 13,
+        "end_idx": 17
+      },
+      {
+        "entity": "室间隔缺损",
+        "type": "dis",
+        "start_idx": 53,
+        "end_idx": 57
+      },
+      {
+        "entity": "左心室",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "前侧",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 40
+      }
+    ]
+  },
+  {
+    "text": "尽管大多数患儿在术后早期主动脉反流轻微，但一些研究表明新主动脉瓣的反流会随时间而逐渐增多。",
+    "entities": [
+      {
+        "entity": "主动脉",
+        "type": "bod",
+        "start_idx": 12,
+        "end_idx": 14
+      },
+      {
+        "entity": "主动脉",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 30
+      },
+      {
+        "entity": "主动脉反流",
+        "type": "dis",
+        "start_idx": 12,
+        "end_idx": 16
+      },
+      {
+        "entity": "新主动脉瓣的反流",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 34
+      },
+      {
+        "entity": "主动脉瓣",
+        "type": "equ",
+        "start_idx": 28,
+        "end_idx": 31
+      }
+    ]
+  },
+  {
+    "text": "迄今为止，Palmaz-Schatz临床应用最多。",
+    "entities": [
+      {
+        "entity": "Palmaz-Schatz",
+        "type": "equ",
+        "start_idx": 5,
+        "end_idx": 17
+      },
+      {
+        "entity": "临床应用",
+        "type": "sym",
+        "start_idx": 18,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "中毒剂量个体差异很大，与维生素D的剂量、应用时间和给药途径有关。",
+    "entities": [
+      {
+        "entity": "维生素D",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 15
+      },
+      {
+        "entity": "给药",
+        "type": "pro",
+        "start_idx": 25,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "本病临床罕见，发病率国外统计为1/7000（纯合子为1/40000），男女发病均等，男性症状重，可能与男性泌尿系解剖不同有关。",
+    "entities": [
+      {
+        "entity": "本病",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "发病率",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "纯合子",
+        "type": "sym",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "男性",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 43
+      },
+      {
+        "entity": "男性",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 52
+      },
+      {
+        "entity": "男女",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 36
+      }
+    ]
+  },
+  {
+    "text": "该转运单位由氨基酸转运蛋白异聚体组成，包含一重一轻的2个亚单位，自1992年来已发现2种重的亚单位即rBAT及4F2hc，并且很快发现胱氨酸尿症病人存在rBAT基因即SLC3A1突变，后来证实编码rBAT的基因SLC3A1突变是引起Ⅰ型胱氨酸尿症的原因。",
+    "entities": [
+      {
+        "entity": "氨基酸转运蛋白",
+        "type": "equ",
+        "start_idx": 6,
+        "end_idx": 12
+      },
+      {
+        "entity": "Ⅰ型胱氨酸尿症",
+        "type": "dis",
+        "start_idx": 116,
+        "end_idx": 122
+      },
+      {
+        "entity": "胱氨酸",
+        "type": "dru",
+        "start_idx": 67,
+        "end_idx": 69
+      },
+      {
+        "entity": "胱氨酸",
+        "type": "dru",
+        "start_idx": 118,
+        "end_idx": 120
+      }
+    ]
+  },
+  {
+    "text": "近2年又陆续发现7种轻的亚单位即LAT-1、LAF-2、asc-1、y+LAT-1、Y+LAT-2、xCT和b（0，+）AT，其中b（0，+）AT由SLC7A9基因编码，其突变是引起Ⅱ型、Ⅲ型胱氨酸尿症的原因。",
+    "entities": [
+      {
+        "entity": "LAT-1",
+        "type": "mic",
+        "start_idx": 16,
+        "end_idx": 20
+      },
+      {
+        "entity": "LAT-1",
+        "type": "mic",
+        "start_idx": 36,
+        "end_idx": 40
+      },
+      {
+        "entity": "LAF-2",
+        "type": "mic",
+        "start_idx": 22,
+        "end_idx": 26
+      },
+      {
+        "entity": "asc-1",
+        "type": "mic",
+        "start_idx": 28,
+        "end_idx": 32
+      },
+      {
+        "entity": "xCT",
+        "type": "mic",
+        "start_idx": 50,
+        "end_idx": 52
+      },
+      {
+        "entity": "Ⅲ型胱氨酸尿症",
+        "type": "dis",
+        "start_idx": 94,
+        "end_idx": 100
+      },
+      {
+        "entity": "Ⅱ型、Ⅲ型胱氨酸尿症",
+        "type": "dis",
+        "start_idx": 91,
+        "end_idx": 100
+      }
+    ]
+  },
+  {
+    "text": "约85%AS病人为性连锁显性遗传（XLinkedAS，XLAS），致病基因定位于X染色体长臂中段Xq22，为编码Ⅳ型胶原α5链（COL4A5）基因突变所致；其余病人为常染色体隐性遗传（autosomalrecessiveAS，ARAS）和常染色体显性遗传AS（autosomaldominantAS，ADAS），前者致病基因为COL4A3或COL4A4基因，而后者具有遗传多源性。",
+    "entities": [
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 29,
+        "end_idx": 30
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 110,
+        "end_idx": 111
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 115,
+        "end_idx": 116
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 127,
+        "end_idx": 128
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 147,
+        "end_idx": 148
+      },
+      {
+        "entity": "AS",
+        "type": "dis",
+        "start_idx": 152,
+        "end_idx": 153
+      },
+      {
+        "entity": "XLinkedAS",
+        "type": "dis",
+        "start_idx": 17,
+        "end_idx": 25
+      },
+      {
+        "entity": "autosomaldominantAS",
+        "type": "dis",
+        "start_idx": 130,
+        "end_idx": 148
+      },
+      {
+        "entity": "X染色体",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 43
+      },
+      {
+        "entity": "常染色体显性遗传AS",
+        "type": "dis",
+        "start_idx": 119,
+        "end_idx": 128
+      }
+    ]
+  },
+  {
+    "text": "受累男孩肾脏几乎全部将发展至终末期肾脏病，但进展速度各家系之间有差异，根据终末期肾衰竭的发生年龄可分为青少年型（31岁前发生）和成年型（31岁以后发生）。",
+    "entities": [
+      {
+        "entity": "男孩",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "肾脏",
+        "type": "bod",
+        "start_idx": 4,
+        "end_idx": 5
+      },
+      {
+        "entity": "肾脏",
+        "type": "bod",
+        "start_idx": 17,
+        "end_idx": 18
+      },
+      {
+        "entity": "终末期肾脏病",
+        "type": "dis",
+        "start_idx": 14,
+        "end_idx": 19
+      },
+      {
+        "entity": "终末期肾衰竭",
+        "type": "dis",
+        "start_idx": 37,
+        "end_idx": 42
+      }
+    ]
+  },
+  {
+    "text": "（三）眼病变约15%患者合并有眼病变，最具特征性的眼部异常为前圆锥形晶状体，即晶状体中央部位突向前房。",
+    "entities": [
+      {
+        "entity": "眼病变",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "entity": "眼病变",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "眼部",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 26
+      },
+      {
+        "entity": "前圆锥形晶状体",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 36
+      },
+      {
+        "entity": "晶状体",
+        "type": "bod",
+        "start_idx": 34,
+        "end_idx": 36
+      },
+      {
+        "entity": "晶状体",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 41
+      },
+      {
+        "entity": "前房",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      }
+    ]
+  },
+  {
+    "text": "其他常见的眼部异常为黄斑周围色素改变，在黄斑区中心凹周围有致密微粒沉着，先天性白内障及眼球震颤等。",
+    "entities": [
+      {
+        "entity": "黄斑周围色素改变",
+        "type": "sym",
+        "start_idx": 10,
+        "end_idx": 17
+      },
+      {
+        "entity": "先天性白内障",
+        "type": "dis",
+        "start_idx": 36,
+        "end_idx": 41
+      },
+      {
+        "entity": "眼球震颤",
+        "type": "sym",
+        "start_idx": 43,
+        "end_idx": 46
+      },
+      {
+        "entity": "黄斑区中心凹",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 25
+      },
+      {
+        "entity": "致密微粒沉着",
+        "type": "sym",
+        "start_idx": 29,
+        "end_idx": 34
+      }
+    ]
+  },
+  {
+    "text": "同时外周血涂片还可见粒细胞甚至巨噬细胞内包涵体。",
+    "entities": [
+      {
+        "entity": "外周血涂片",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "粒细胞",
+        "type": "mic",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "巨噬细胞",
+        "type": "mic",
+        "start_idx": 15,
+        "end_idx": 18
+      },
+      {
+        "entity": "巨噬细胞内包涵体",
+        "type": "mic",
+        "start_idx": 15,
+        "end_idx": 22
+      }
+    ]
+  },
+  {
+    "text": "③伴同症状，如高频区神经性耳聋，和（或）眼部白内障，圆锥形晶状体等都有诊断价值。",
+    "entities": [
+      {
+        "entity": "眼部白内障",
+        "type": "sym",
+        "start_idx": 20,
+        "end_idx": 24
+      },
+      {
+        "entity": "圆锥形晶状体",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 31
+      },
+      {
+        "entity": "高频区神经性耳聋",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 14
+      }
+    ]
+  },
+  {
+    "text": "④肾脏病理显示肾小球基膜广泛不规则增厚、劈裂，并与变薄的基膜并存。",
+    "entities": [
+      {
+        "entity": "肾小球",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "肾脏病理",
+        "type": "dis",
+        "start_idx": 1,
+        "end_idx": 4
+      },
+      {
+        "entity": "基膜",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "基膜",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "可有高血压、水肿及大量蛋白尿。",
+    "entities": [
+      {
+        "entity": "高血压",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "蛋白尿",
+        "type": "ite",
+        "start_idx": 11,
+        "end_idx": 13
+      },
+      {
+        "entity": "水肿",
+        "type": "sym",
+        "start_idx": 6,
+        "end_idx": 7
+      }
+    ]
+  },
+  {
+    "text": "肿瘤多涉及数个椎体平面，压迫、侵蚀正常脊髓组织。",
+    "entities": [
+      {
+        "entity": "肿瘤",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "椎体",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "脊髓",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 20
+      }
+    ]
+  },
+  {
+    "text": "多位于颜面一侧，偶有两侧。",
+    "entities": [
+      {
+        "entity": "颜面",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "两侧",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      }
+    ]
+  },
+  {
+    "text": "（三）眼部损害40%病人有青光眼，常与面部血管痣同侧。",
+    "entities": [
+      {
+        "entity": "眼部",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "青光眼",
+        "type": "dis",
+        "start_idx": 13,
+        "end_idx": 15
+      },
+      {
+        "entity": "面部",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 20
+      }
+    ]
+  },
+  {
+    "text": "新生儿肾脏重约24g，长6cm；至成人，重约150g，长12cm。",
+    "entities": [
+      {
+        "entity": "肾脏",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "新生儿",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "成人",
+        "type": "bod",
+        "start_idx": 17,
+        "end_idx": 18
+      }
+    ]
+  },
+  {
+    "text": "皮质和髓质并非截然分开，皮质中有许多条髓质放射状插入髓质，称皮质髓放线，髓放线之间的肾皮质称皮质迷路。",
+    "entities": [
+      {
+        "entity": "皮质",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "皮质",
+        "type": "bod",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "皮质",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "皮质",
+        "type": "bod",
+        "start_idx": 43,
+        "end_idx": 44
+      },
+      {
+        "entity": "皮质",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 47
+      },
+      {
+        "entity": "髓质",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "髓质",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 20
+      },
+      {
+        "entity": "髓质",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 27
+      },
+      {
+        "entity": "皮质髓放线",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 34
+      },
+      {
+        "entity": "髓放线",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 34
+      },
+      {
+        "entity": "髓放线",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 38
+      },
+      {
+        "entity": "肾皮质",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 44
+      },
+      {
+        "entity": "皮质迷路",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 49
+      }
+    ]
+  },
+  {
+    "text": "表9-3左右心室解剖形态学特征（一）形态学右心室右心室呈三角形，心室内小梁粗大、稀少且与右心室流入道和流出道平行。",
+    "entities": [
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 46
+      }
+    ]
+  },
+  {
+    "text": "因此，不能单纯通过瓣膜的数量来判断是否为三尖瓣，而可依据以下两个特征进行判断：①三尖瓣长度相仿；②与二尖瓣不同，三尖瓣为流入道瓣膜。",
+    "entities": [
+      {
+        "entity": "三尖瓣",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 22
+      },
+      {
+        "entity": "三尖瓣",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "三尖瓣",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 58
+      },
+      {
+        "entity": "二尖瓣",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 52
+      }
+    ]
+  },
+  {
+    "text": "解剖学上右心室由四部分组成：①房室通道部；②右心室窦部；③远端圆锥隔；④近端圆锥隔。",
+    "entities": [
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "entity": "右心室",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "房室通道部",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "右心室窦部",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 26
+      },
+      {
+        "entity": "远端圆锥隔",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 33
+      },
+      {
+        "entity": "近端圆锥隔",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 40
+      }
+    ]
+  },
+  {
+    "text": "在大动脉连接正常时，主动脉无冠瓣与左冠瓣交界直接位于二尖瓣前叶中部之上而无冠瓣与右冠瓣交界则在膜部室间隔之上。",
+    "entities": [
+      {
+        "entity": "大动脉",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "主动脉",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "冠瓣",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "冠瓣",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "冠瓣",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "冠瓣",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "左冠瓣",
+        "type": "bod",
+        "start_idx": 17,
+        "end_idx": 19
+      },
+      {
+        "entity": "二尖瓣前叶",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 30
+      },
+      {
+        "entity": "右冠瓣",
+        "type": "bod",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "膜部室间隔",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 51
+      }
+    ]
+  },
+  {
+    "text": "六、病程及预后20世纪60年代小样本提示，儿童CVS发作结束于14岁前，病程中位年龄为6年，发病年越早、病程也越长，小于3岁发病，病程持续3～8年，8岁以后发病，病程分别为5.8、4.9及2.9年。",
+    "entities": [
+      {
+        "entity": "CVS",
+        "type": "dis",
+        "start_idx": 23,
+        "end_idx": 25
+      }
+    ]
+  },
+  {
+    "text": "β<sub>2</sub>受体广泛分布在气道的各种效应细胞上，从不同侧面对气道起着调节作用（表8-8）。",
+    "entities": [
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "效应细胞",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 28
+      },
+      {
+        "entity": "调节作用",
+        "type": "pro",
+        "start_idx": 41,
+        "end_idx": 44
+      },
+      {
+        "entity": "β<sub>2</sub>受体",
+        "type": "dru",
+        "start_idx": 0,
+        "end_idx": 14
+      },
+      {
+        "entity": "表8-8",
+        "type": "ite",
+        "start_idx": 46,
+        "end_idx": 49
+      }
+    ]
+  },
+  {
+    "text": "现在常用的吸入给药方式主要有2种，定量揿压式气雾剂（MDI）和干粉吸入剂。",
+    "entities": [
+      {
+        "entity": "气雾剂",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "干粉吸入剂",
+        "type": "dru",
+        "start_idx": 31,
+        "end_idx": 35
+      },
+      {
+        "entity": "吸入给药",
+        "type": "pro",
+        "start_idx": 5,
+        "end_idx": 8
+      }
+    ]
+  },
+  {
+    "text": "4.口服用药口服短效β<sub>2</sub>受体激动剂，不良反应较多；缓释或控释β<sub>2</sub>受体激动剂疗效维持时间长，用于防治反复发作性哮喘和夜间哮喘（剂量和用法见表8-8）。",
+    "entities": [
+      {
+        "entity": "β<sub>2</sub>受体激动剂",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 27
+      },
+      {
+        "entity": "β<sub>2</sub>受体激动剂",
+        "type": "dru",
+        "start_idx": 41,
+        "end_idx": 58
+      },
+      {
+        "entity": "短效β<sub>2</sub>受体激动剂",
+        "type": "dru",
+        "start_idx": 8,
+        "end_idx": 27
+      },
+      {
+        "entity": "缓释或控释β<sub>2</sub>受体激动剂",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 58
+      },
+      {
+        "entity": "反复发作性哮喘",
+        "type": "dis",
+        "start_idx": 71,
+        "end_idx": 77
+      },
+      {
+        "entity": "夜间哮喘",
+        "type": "dis",
+        "start_idx": 79,
+        "end_idx": 82
+      }
+    ]
+  },
+  {
+    "text": "博利康尼（Brieanyl）：2.5mg/片，每次65μg/kg，3次/日。",
+    "entities": [
+      {
+        "entity": "博利康尼",
+        "type": "dru",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "每次",
+        "type": "pro",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "3次/日",
+        "type": "pro",
+        "start_idx": 33,
+        "end_idx": 36
+      }
+    ]
+  },
+  {
+    "text": "吸入给药可以大大减少这一不良反应。",
+    "entities": [
+      {
+        "entity": "吸入给药",
+        "type": "pro",
+        "start_idx": 0,
+        "end_idx": 3
+      }
+    ]
+  },
+  {
+    "text": "十、脉络丛乳头状瘤占儿童脑肿瘤2%～3%，主要生长在各脑室内。",
+    "entities": [
+      {
+        "entity": "脉络丛乳头状瘤",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 8
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "脑",
+        "type": "bod",
+        "start_idx": 12,
+        "end_idx": 12
+      },
+      {
+        "entity": "脑",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 27
+      },
+      {
+        "entity": "脑肿瘤",
+        "type": "bod",
+        "start_idx": 12,
+        "end_idx": 14
+      }
+    ]
+  },
+  {
+    "text": "左肺门高于右肺门约0.5～1.0cm。",
+    "entities": [
+      {
+        "entity": "左肺门",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "右肺门",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 7
+      }
+    ]
+  },
+  {
+    "text": "迟发性神经元死亡实质上就是细胞凋亡，在动物模型中检测到一系列凋亡相关基因的表达。",
+    "entities": [
+      {
+        "entity": "迟发性神经元死亡",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 7
+      },
+      {
+        "entity": "凋亡相关基因",
+        "type": "ite",
+        "start_idx": 30,
+        "end_idx": 35
+      },
+      {
+        "entity": "细胞",
+        "type": "bod",
+        "start_idx": 13,
+        "end_idx": 14
+      }
+    ]
+  },
+  {
+    "text": "足月儿上肢肌张力降低比下肢严重，提示病变累及矢状窦旁区。",
+    "entities": [
+      {
+        "entity": "上肢",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "下肢",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 12
+      },
+      {
+        "entity": "矢状窦旁区",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 26
+      },
+      {
+        "entity": "肌张力降低",
+        "type": "sym",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "（三）重度患儿处于昏迷状态，肌张力极度低下，松软，拥抱反射、腱反射消失，瞳孔不等大，对光反应差，前囟隆起，惊厥频繁，呼吸不规则或暂停，甚至出现呼吸衰竭。",
+    "entities": [
+      {
+        "entity": "肌张力",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "拥抱反射",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 28
+      },
+      {
+        "entity": "腱反射",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 32
+      },
+      {
+        "entity": "瞳孔",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 37
+      },
+      {
+        "entity": "前囟",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "呼吸",
+        "type": "bod",
+        "start_idx": 58,
+        "end_idx": 59
+      },
+      {
+        "entity": "呼吸",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 72
+      },
+      {
+        "entity": "昏迷状态",
+        "type": "sym",
+        "start_idx": 9,
+        "end_idx": 12
+      },
+      {
+        "entity": "消失",
+        "type": "sym",
+        "start_idx": 33,
+        "end_idx": 34
+      },
+      {
+        "entity": "隆起",
+        "type": "sym",
+        "start_idx": 50,
+        "end_idx": 51
+      },
+      {
+        "entity": "惊厥频繁",
+        "type": "sym",
+        "start_idx": 53,
+        "end_idx": 56
+      },
+      {
+        "entity": "呼吸不规则",
+        "type": "sym",
+        "start_idx": 58,
+        "end_idx": 62
+      },
+      {
+        "entity": "呼吸衰竭",
+        "type": "sym",
+        "start_idx": 71,
+        "end_idx": 74
+      },
+      {
+        "entity": "重度患儿",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 6
+      }
+    ]
+  },
+  {
+    "text": "【诊断】新生儿HIE的诊断主要依据病史和临床表现，但同时要做影像学和其他检查，对病情严重程度及预后进行评价。",
+    "entities": [
+      {
+        "entity": "新生儿HIE",
+        "type": "dis",
+        "start_idx": 4,
+        "end_idx": 9
+      },
+      {
+        "entity": "病史",
+        "type": "sym",
+        "start_idx": 17,
+        "end_idx": 18
+      },
+      {
+        "entity": "影像学",
+        "type": "ite",
+        "start_idx": 30,
+        "end_idx": 32
+      },
+      {
+        "entity": "其他检查",
+        "type": "ite",
+        "start_idx": 34,
+        "end_idx": 37
+      },
+      {
+        "entity": "病情严重程度",
+        "type": "sym",
+        "start_idx": 40,
+        "end_idx": 45
+      },
+      {
+        "entity": "预后",
+        "type": "sym",
+        "start_idx": 47,
+        "end_idx": 48
+      }
+    ]
+  },
+  {
+    "text": "2.红外光谱测定技术（NIRS）NIRS是近年来国外新兴的光学诊断技术，可直接测出脑组织中氧合血红蛋白及还原血红蛋白的变化，实际了解脑内氧合情况，间接反映脑血流动力学状况及细胞内生物氧化过程。",
+    "entities": [
+      {
+        "entity": "NIRS",
+        "type": "equ",
+        "start_idx": 11,
+        "end_idx": 14
+      },
+      {
+        "entity": "NIRS",
+        "type": "equ",
+        "start_idx": 16,
+        "end_idx": 19
+      },
+      {
+        "entity": "脑组织",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 43
+      },
+      {
+        "entity": "氧合血红蛋白",
+        "type": "dru",
+        "start_idx": 45,
+        "end_idx": 50
+      },
+      {
+        "entity": "还原血红蛋白",
+        "type": "dru",
+        "start_idx": 52,
+        "end_idx": 57
+      },
+      {
+        "entity": "细胞",
+        "type": "bod",
+        "start_idx": 86,
+        "end_idx": 87
+      },
+      {
+        "entity": "生物氧化过程",
+        "type": "bod",
+        "start_idx": 89,
+        "end_idx": 94
+      }
+    ]
+  },
+  {
+    "text": "2.亚低温疗法近年，亚低温（降低脑温或体温2～4℃）对HIE的神经保护作用已引起了国内外学者的关注。",
+    "entities": [
+      {
+        "entity": "亚低温疗法",
+        "type": "pro",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "HIE",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "晚期呼吸渐渐无力而衰竭，发绀加重，意识模糊，并可有抽搐等。",
+    "entities": [
+      {
+        "entity": "衰竭",
+        "type": "sym",
+        "start_idx": 9,
+        "end_idx": 10
+      },
+      {
+        "entity": "发绀",
+        "type": "sym",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "意识模糊",
+        "type": "sym",
+        "start_idx": 17,
+        "end_idx": 20
+      },
+      {
+        "entity": "抽搐",
+        "type": "sym",
+        "start_idx": 25,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "胸部听诊呼吸音明显降低，甚至听不到。",
+    "entities": [
+      {
+        "entity": "胸部",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "听诊",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "呼吸音明显降低",
+        "type": "sym",
+        "start_idx": 4,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "但由于神经系统不良反应、对B型流感病毒无效及耐药株的出现，限制了其在临床的应用。",
+    "entities": [
+      {
+        "entity": "耐药株",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "B型流感病毒",
+        "type": "dru",
+        "start_idx": 13,
+        "end_idx": 18
+      },
+      {
+        "entity": "神经系统不良反应",
+        "type": "sym",
+        "start_idx": 3,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "8.其他白细胞介素-2（IL-2）、胸腺肽、阿糖腺苷、双嘧达莫、聚肌胞、泰瑞宁和丙基乙磺酸及中药制剂。",
+    "entities": [
+      {
+        "entity": "白细胞介素-2（IL-2）",
+        "type": "dru",
+        "start_idx": 4,
+        "end_idx": 16
+      },
+      {
+        "entity": "胸腺肽",
+        "type": "dru",
+        "start_idx": 18,
+        "end_idx": 20
+      },
+      {
+        "entity": "阿糖腺苷",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 25
+      },
+      {
+        "entity": "双嘧达莫",
+        "type": "dru",
+        "start_idx": 27,
+        "end_idx": 30
+      },
+      {
+        "entity": "聚肌胞",
+        "type": "dru",
+        "start_idx": 32,
+        "end_idx": 34
+      },
+      {
+        "entity": "泰瑞宁",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 38
+      },
+      {
+        "entity": "丙基乙磺酸",
+        "type": "dru",
+        "start_idx": 40,
+        "end_idx": 44
+      },
+      {
+        "entity": "中药制剂",
+        "type": "dru",
+        "start_idx": 46,
+        "end_idx": 49
+      }
+    ]
+  },
+  {
+    "text": "肺炎链球菌引起者亦较稠厚，呈黄色。",
+    "entities": [
+      {
+        "entity": "肺炎链球菌",
+        "type": "mic",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "entity": "稠厚",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "黄色",
+        "type": "sym",
+        "start_idx": 14,
+        "end_idx": 15
+      }
+    ]
+  },
+  {
+    "text": "有文献报道局部注入溶纤维性药物如尿激酶等可促进胸水引流排出。",
+    "entities": [
+      {
+        "entity": "尿激酶",
+        "type": "dru",
+        "start_idx": 16,
+        "end_idx": 18
+      },
+      {
+        "entity": "胸水",
+        "type": "dis",
+        "start_idx": 23,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "人类GH基因定位于第17号染色体长臂q22～24区带，由5个外显子和4个内含子组成。",
+    "entities": []
+  },
+  {
+    "text": "在血循环中，大约50%的GH与生长激素结合蛋白（GHBP）结合，以GH-GHBP复合物的形式存在。",
+    "entities": [
+      {
+        "entity": "血循环",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "GH",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "GH",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "GH",
+        "type": "dru",
+        "start_idx": 33,
+        "end_idx": 34
+      },
+      {
+        "entity": "GH",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 37
+      },
+      {
+        "entity": "GH-GHBP复合物",
+        "type": "dru",
+        "start_idx": 33,
+        "end_idx": 42
+      }
+    ]
+  },
+  {
+    "text": "细胞外区的蛋白水解片段，循环于血浆中，充当为一种GH结合蛋白。",
+    "entities": [
+      {
+        "entity": "血浆",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      },
+      {
+        "entity": "细胞外区",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "GH",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "GH结合蛋白",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "3.影像学检查颅脑磁共振显像（MRI）可显示蝶鞍容积大小，垂体前、后叶大小，可诊断垂体不发育、发育不良，空蝶鞍及视中隔发育不良等，在区分蝶鞍饱满还是空蝶鞍上MRI优于CT。",
+    "entities": [
+      {
+        "entity": "颅脑磁共振显像（MRI）",
+        "type": "ite",
+        "start_idx": 7,
+        "end_idx": 18
+      },
+      {
+        "entity": "蝶鞍",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "蝶鞍",
+        "type": "bod",
+        "start_idx": 53,
+        "end_idx": 54
+      },
+      {
+        "entity": "蝶鞍",
+        "type": "bod",
+        "start_idx": 68,
+        "end_idx": 69
+      },
+      {
+        "entity": "蝶鞍",
+        "type": "bod",
+        "start_idx": 75,
+        "end_idx": 76
+      },
+      {
+        "entity": "垂体不发育",
+        "type": "dis",
+        "start_idx": 41,
+        "end_idx": 45
+      },
+      {
+        "entity": "发育不良",
+        "type": "dis",
+        "start_idx": 47,
+        "end_idx": 50
+      },
+      {
+        "entity": "发育不良",
+        "type": "dis",
+        "start_idx": 59,
+        "end_idx": 62
+      },
+      {
+        "entity": "空蝶鞍",
+        "type": "dis",
+        "start_idx": 52,
+        "end_idx": 54
+      },
+      {
+        "entity": "空蝶鞍",
+        "type": "dis",
+        "start_idx": 74,
+        "end_idx": 76
+      },
+      {
+        "entity": "视中隔",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 58
+      },
+      {
+        "entity": "CT",
+        "type": "ite",
+        "start_idx": 83,
+        "end_idx": 84
+      }
+    ]
+  },
+  {
+    "text": "GHD患儿的年增长速率往往＜5cm，骨龄延迟一般可大于2年以上，GH激发峰值＜10μg/L。",
+    "entities": [
+      {
+        "entity": "GHD",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "年",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 6
+      },
+      {
+        "entity": "年",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 28
+      },
+      {
+        "entity": "增长速率",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "cm",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      },
+      {
+        "entity": "骨龄延迟",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 21
+      },
+      {
+        "entity": "年以上",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 30
+      },
+      {
+        "entity": "μg/L",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 44
+      },
+      {
+        "entity": "年增长速率",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "4.宫内发育迟缓本症可由母孕期营养或供氧不足、胎盘存在病理性因素、宫内感染以及胎儿基因组遗传印迹等因素导致胎儿宫内发育障碍。",
+    "entities": [
+      {
+        "entity": "宫内发育迟缓",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 7
+      },
+      {
+        "entity": "胎儿",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 40
+      },
+      {
+        "entity": "胎儿",
+        "type": "bod",
+        "start_idx": 53,
+        "end_idx": 54
+      },
+      {
+        "entity": "胎盘",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "宫内感染",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 36
+      },
+      {
+        "entity": "基因组",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 43
+      }
+    ]
+  },
+  {
+    "text": "初生时多为足月小样儿，散发起病，无家族史，亦无内分泌异常。",
+    "entities": [
+      {
+        "entity": "足月小样儿",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "5.染色体异常典型Turner综合征不难鉴别，但部分患儿系因X染色体结构异常（如等臂畸形及部分缺失等）或各种嵌合体所致病。",
+    "entities": [
+      {
+        "entity": "Turner综合征",
+        "type": "dis",
+        "start_idx": 9,
+        "end_idx": 17
+      },
+      {
+        "entity": "X染色体",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 33
+      }
+    ]
+  },
+  {
+    "text": "4.胸腺胚胎期即是T淋巴细胞发育成熟和增殖的主要部位。",
+    "entities": [
+      {
+        "entity": "胸腺",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "T淋巴细胞",
+        "type": "bod",
+        "start_idx": 9,
+        "end_idx": 13
+      }
+    ]
+  },
+  {
+    "text": "与其他融合肾相区别的主要特征是肾脏纵立于脊柱两侧，结构完整，只是其相对应的两肾下极被横跨脊柱的实质性组织或纤维组织相连接。",
+    "entities": [
+      {
+        "entity": "脊柱",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "脊柱",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 45
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 5
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 15
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 38
+      },
+      {
+        "entity": "肾脏",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      }
+    ]
+  },
+  {
+    "text": "马蹄肾的发生率约为0.25%，男女之比约为2∶1。",
+    "entities": [
+      {
+        "entity": "马蹄肾",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "发生率",
+        "type": "sym",
+        "start_idx": 4,
+        "end_idx": 6
+      },
+      {
+        "entity": "男女",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      }
+    ]
+  },
+  {
+    "text": "Glenn对马蹄肾患儿随访10年，其中60%始终没有症状，13%有尿路感染或腹痛，17%有结石，仅25%的患儿需手术来解除梗阻或去除结石。",
+    "entities": [
+      {
+        "entity": "马蹄肾",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 8
+      },
+      {
+        "entity": "尿路感染",
+        "type": "sym",
+        "start_idx": 33,
+        "end_idx": 36
+      },
+      {
+        "entity": "手术",
+        "type": "pro",
+        "start_idx": 56,
+        "end_idx": 57
+      },
+      {
+        "entity": "尿路感染",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 36
+      },
+      {
+        "entity": "腹痛",
+        "type": "dis",
+        "start_idx": 38,
+        "end_idx": 39
+      },
+      {
+        "entity": "结石",
+        "type": "dis",
+        "start_idx": 45,
+        "end_idx": 46
+      },
+      {
+        "entity": "结石",
+        "type": "dis",
+        "start_idx": 66,
+        "end_idx": 67
+      },
+      {
+        "entity": "腹痛",
+        "type": "sym",
+        "start_idx": 38,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "特征性的实验室检查为末梢血嗜酸性粒细胞增多，胸片常表现为肺气肿伴间质和肺泡浸润影。",
+    "entities": [
+      {
+        "entity": "末梢血嗜酸性粒细胞增多",
+        "type": "ite",
+        "start_idx": 10,
+        "end_idx": 20
+      },
+      {
+        "entity": "胸片",
+        "type": "ite",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "间质",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 33
+      },
+      {
+        "entity": "肺泡",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 36
+      },
+      {
+        "entity": "肺泡浸润影",
+        "type": "dis",
+        "start_idx": 35,
+        "end_idx": 39
+      },
+      {
+        "entity": "末梢血嗜酸性粒细胞",
+        "type": "ite",
+        "start_idx": 10,
+        "end_idx": 18
+      },
+      {
+        "entity": "胸片",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "肺气肿",
+        "type": "dis",
+        "start_idx": 28,
+        "end_idx": 30
+      },
+      {
+        "entity": "肺气肿",
+        "type": "sym",
+        "start_idx": 28,
+        "end_idx": 30
+      },
+      {
+        "entity": "间质和肺泡浸润影",
+        "type": "sym",
+        "start_idx": 32,
+        "end_idx": 39
+      }
+    ]
+  },
+  {
+    "text": "二、磁共振成像学磁共振成像学（magneticresonanceimaging，MRI）是20世纪80年代继CT之后又一项新的影像诊断技术。",
+    "entities": [
+      {
+        "entity": "磁共振成像学",
+        "type": "equ",
+        "start_idx": 2,
+        "end_idx": 7
+      },
+      {
+        "entity": "磁共振成像学",
+        "type": "equ",
+        "start_idx": 8,
+        "end_idx": 13
+      },
+      {
+        "entity": "CT",
+        "type": "equ",
+        "start_idx": 54,
+        "end_idx": 55
+      },
+      {
+        "entity": "MRI",
+        "type": "equ",
+        "start_idx": 40,
+        "end_idx": 42
+      }
+    ]
+  },
+  {
+    "text": "7.脊柱和脊髓疾病MRI以高软组织分辨能力和矢状面的使用更为重要。",
+    "entities": [
+      {
+        "entity": "脊柱",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "脊髓",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "MRI",
+        "type": "equ",
+        "start_idx": 9,
+        "end_idx": 11
+      },
+      {
+        "entity": "矢状面",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "此时，心脏外形已基本形成。",
+    "entities": [
+      {
+        "entity": "心脏",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 4
+      }
+    ]
+  },
+  {
+    "text": "（三）咳嗽变异性哮喘发病机制与支气管哮喘相似，其只咳不喘的原因或机制还不是非常清楚，部分学者认为可能为气道炎症和气道高反应没有达到哮喘发作的程度；另一些学者认为慢性气道炎症主要集中在中央气道，大气道平滑肌收缩刺激肌梭内咳嗽感受器引起剧烈咳嗽，而没有小气道阻塞表现。",
+    "entities": [
+      {
+        "entity": "变异性哮喘",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 9
+      },
+      {
+        "entity": "支气管哮喘",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 52
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 57
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 82,
+        "end_idx": 83
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 93,
+        "end_idx": 94
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 97,
+        "end_idx": 98
+      },
+      {
+        "entity": "气道",
+        "type": "bod",
+        "start_idx": 125,
+        "end_idx": 126
+      },
+      {
+        "entity": "气道炎症",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 54
+      },
+      {
+        "entity": "气道炎症",
+        "type": "bod",
+        "start_idx": 82,
+        "end_idx": 85
+      },
+      {
+        "entity": "气道高反应",
+        "type": "bod",
+        "start_idx": 56,
+        "end_idx": 60
+      },
+      {
+        "entity": "哮喘发作",
+        "type": "dis",
+        "start_idx": 65,
+        "end_idx": 68
+      },
+      {
+        "entity": "中央气道",
+        "type": "bod",
+        "start_idx": 91,
+        "end_idx": 94
+      },
+      {
+        "entity": "大气道平滑肌",
+        "type": "bod",
+        "start_idx": 96,
+        "end_idx": 101
+      },
+      {
+        "entity": "肌梭内咳嗽感受器",
+        "type": "bod",
+        "start_idx": 106,
+        "end_idx": 113
+      },
+      {
+        "entity": "小气道阻塞",
+        "type": "bod",
+        "start_idx": 124,
+        "end_idx": 128
+      },
+      {
+        "entity": "咳嗽变异性哮喘",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 9
+      },
+      {
+        "entity": "慢性气道炎症",
+        "type": "dis",
+        "start_idx": 80,
+        "end_idx": 85
+      }
+    ]
+  },
+  {
+    "text": "又可进一步分为原发性和继发性的，这一部分我们在膀胱输尿管反流章节予以详述。",
+    "entities": []
+  },
+  {
+    "text": "如肾和输尿管的积水及扩张仍然严重，没有改善，可在1岁后选择手术治疗。",
+    "entities": [
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 1
+      },
+      {
+        "entity": "输尿管",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 5
+      },
+      {
+        "entity": "手术治疗",
+        "type": "pro",
+        "start_idx": 29,
+        "end_idx": 32
+      },
+      {
+        "entity": "积水及扩张",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 11
+      }
+    ]
+  },
+  {
+    "text": "3.根据目前儿童肿瘤的治愈率，预计将来16～44岁成年人群中儿童肿瘤生存者为1/900人。",
+    "entities": [
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 7
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "肿瘤",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "肿瘤",
+        "type": "dis",
+        "start_idx": 32,
+        "end_idx": 33
+      },
+      {
+        "entity": "儿童肿瘤",
+        "type": "dis",
+        "start_idx": 6,
+        "end_idx": 9
+      },
+      {
+        "entity": "儿童肿瘤",
+        "type": "dis",
+        "start_idx": 30,
+        "end_idx": 33
+      }
+    ]
+  },
+  {
+    "text": "【病因机制和病理生理】1.病因机制（1）流行病学调查提示，糖尿病的发生与种族、地理环境、生活方式、饮食及感染等有关。",
+    "entities": [
+      {
+        "entity": "糖尿病",
+        "type": "dis",
+        "start_idx": 29,
+        "end_idx": 31
+      },
+      {
+        "entity": "种族",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 37
+      },
+      {
+        "entity": "地理环境",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 42
+      },
+      {
+        "entity": "生活方式",
+        "type": "bod",
+        "start_idx": 44,
+        "end_idx": 47
+      },
+      {
+        "entity": "饮食",
+        "type": "bod",
+        "start_idx": 49,
+        "end_idx": 50
+      },
+      {
+        "entity": "感染",
+        "type": "dis",
+        "start_idx": 52,
+        "end_idx": 53
+      }
+    ]
+  },
+  {
+    "text": "随着经济发展和生活方式的改变，儿童糖尿病亦有逐年增高趋势。",
+    "entities": [
+      {
+        "entity": "糖尿病",
+        "type": "dis",
+        "start_idx": 17,
+        "end_idx": 19
+      },
+      {
+        "entity": "儿童",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      }
+    ]
+  },
+  {
+    "text": "糖耐量损害是指处于正常体内稳态葡萄糖与糖尿病之间的代谢阶段。",
+    "entities": [
+      {
+        "entity": "糖耐量损害",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "entity": "葡萄糖",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "糖尿病",
+        "type": "dis",
+        "start_idx": 19,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "（二）鉴别诊断1.儿童2型糖尿病胰岛素抵抗为主伴胰岛素相对分泌不足，或胰岛素分泌不足伴或不伴胰岛素抵抗，属多基因遗传，近年来发病率有增高趋势。",
+    "entities": [
+      {
+        "entity": "2型糖尿病",
+        "type": "dis",
+        "start_idx": 11,
+        "end_idx": 15
+      },
+      {
+        "entity": "胰岛素",
+        "type": "bod",
+        "start_idx": 16,
+        "end_idx": 18
+      },
+      {
+        "entity": "胰岛素",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "胰岛素",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 37
+      },
+      {
+        "entity": "胰岛素",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 48
+      },
+      {
+        "entity": "胰岛素抵抗",
+        "type": "bod",
+        "start_idx": 16,
+        "end_idx": 20
+      },
+      {
+        "entity": "胰岛素抵抗",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 50
+      },
+      {
+        "entity": "胰岛素相对分泌不足",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 32
+      },
+      {
+        "entity": "胰岛素分泌不足",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 41
+      },
+      {
+        "entity": "多基因",
+        "type": "mic",
+        "start_idx": 53,
+        "end_idx": 55
+      }
+    ]
+  },
+  {
+    "text": "3.肾性糖尿病无糖尿病症状，多在体检或者做尿常规检查时发现，血糖正常，胰岛素分泌正常。",
+    "entities": [
+      {
+        "entity": "肾性糖尿病",
+        "type": "dis",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "尿常规检查",
+        "type": "ite",
+        "start_idx": 21,
+        "end_idx": 25
+      },
+      {
+        "entity": "糖尿病症状",
+        "type": "sym",
+        "start_idx": 8,
+        "end_idx": 12
+      },
+      {
+        "entity": "血糖",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "胰岛素",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 37
+      }
+    ]
+  },
+  {
+    "text": "另外，在应急状态时血糖也可一过性升高，需注意鉴别。",
+    "entities": [
+      {
+        "entity": "血糖",
+        "type": "bod",
+        "start_idx": 9,
+        "end_idx": 10
+      }
+    ]
+  },
+  {
+    "text": "慢性胰岛素过量（Somogyi反应）是指胰岛素（尤其是晚餐前中效胰岛素）慢性过量，凌晨2～3时易发生低血糖，低血糖又引发反调节激素分泌增高，清晨出现高血糖，即低-高血糖反应。",
+    "entities": [
+      {
+        "entity": "慢性胰岛素过量",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 6
+      },
+      {
+        "entity": "低血糖",
+        "type": "dis",
+        "start_idx": 50,
+        "end_idx": 52
+      },
+      {
+        "entity": "低血糖",
+        "type": "dis",
+        "start_idx": 54,
+        "end_idx": 56
+      },
+      {
+        "entity": "高血糖",
+        "type": "dis",
+        "start_idx": 74,
+        "end_idx": 76
+      },
+      {
+        "entity": "高血糖",
+        "type": "dis",
+        "start_idx": 81,
+        "end_idx": 83
+      },
+      {
+        "entity": "Somogyi反应",
+        "type": "dis",
+        "start_idx": 8,
+        "end_idx": 16
+      },
+      {
+        "entity": "胰岛素",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "胰岛素",
+        "type": "dru",
+        "start_idx": 20,
+        "end_idx": 22
+      },
+      {
+        "entity": "胰岛素",
+        "type": "dru",
+        "start_idx": 32,
+        "end_idx": 34
+      }
+    ]
+  },
+  {
+    "text": "如清晨尿糖阴性或弱阳性，而尿酮体阳性，则提示夜间低血糖，应检测早晨2～3时血糖，并减少晚餐前或睡前胰岛素用量。",
+    "entities": [
+      {
+        "entity": "清晨尿糖",
+        "type": "ite",
+        "start_idx": 1,
+        "end_idx": 4
+      },
+      {
+        "entity": "尿糖",
+        "type": "ite",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "尿酮体",
+        "type": "ite",
+        "start_idx": 13,
+        "end_idx": 15
+      },
+      {
+        "entity": "血糖",
+        "type": "ite",
+        "start_idx": 25,
+        "end_idx": 26
+      },
+      {
+        "entity": "血糖",
+        "type": "ite",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "胰岛素",
+        "type": "dru",
+        "start_idx": 49,
+        "end_idx": 51
+      },
+      {
+        "entity": "夜间低血糖",
+        "type": "sym",
+        "start_idx": 22,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "碳水化合物成分应主要来自淀粉类，高纤维成分的食品有利于促进血糖控制，使食物的消化和吸收时间延长，血糖水平上升较慢。",
+    "entities": [
+      {
+        "entity": "血糖控制",
+        "type": "sym",
+        "start_idx": 29,
+        "end_idx": 32
+      },
+      {
+        "entity": "消化",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 39
+      },
+      {
+        "entity": "吸收",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "血糖水平",
+        "type": "sym",
+        "start_idx": 48,
+        "end_idx": 51
+      }
+    ]
+  },
+  {
+    "text": "见排尿后即加入氯化钾3～6mmol/kg。",
+    "entities": [
+      {
+        "entity": "氯化钾",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "呼吸肌完全放松时的压力-容量曲线（图8-8）（即顺应性）呈S形，这意味着呼吸系统在高肺容积和低肺容积时顺应性小。",
+    "entities": [
+      {
+        "entity": "呼吸肌",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "压力-容量曲线",
+        "type": "ite",
+        "start_idx": 9,
+        "end_idx": 15
+      },
+      {
+        "entity": "肺容积",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 44
+      },
+      {
+        "entity": "肺容积",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 49
+      }
+    ]
+  },
+  {
+    "text": "正常时肺的顺应性居于中间的陡坡段，随吸气压力的变化而相应增减；在等肺容积时（中度通气）顺应性最大。",
+    "entities": [
+      {
+        "entity": "肺",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 3
+      },
+      {
+        "entity": "肺",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 33
+      },
+      {
+        "entity": "肺容积",
+        "type": "bod",
+        "start_idx": 33,
+        "end_idx": 35
+      },
+      {
+        "entity": "顺应性",
+        "type": "sym",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "顺应性",
+        "type": "sym",
+        "start_idx": 43,
+        "end_idx": 45
+      }
+    ]
+  },
+  {
+    "text": "在ICU中监测肺功能时，必须考虑频率、流速及容积的影响。",
+    "entities": [
+      {
+        "entity": "ICU",
+        "type": "dep",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "肺功能",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 9
+      }
+    ]
+  },
+  {
+    "text": "由于阻力是流速依赖性的，TT使呼气支向容量轴方向凹陷。",
+    "entities": [
+      {
+        "entity": "TT",
+        "type": "equ",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "呼气支",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "阻力",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 3
+      },
+      {
+        "entity": "容量轴",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "在一个计算机模型中，3.5mmTT的流速依赖性阻力可抵消4倍时间常数不稳定造成的呼气支曲线的改变。",
+    "entities": [
+      {
+        "entity": "3.5mmTT",
+        "type": "equ",
+        "start_idx": 10,
+        "end_idx": 16
+      },
+      {
+        "entity": "流速",
+        "type": "ite",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "呼气支曲线的改变",
+        "type": "sym",
+        "start_idx": 40,
+        "end_idx": 47
+      }
+    ]
+  },
+  {
+    "text": "因此，TT存在的情况下，被动呼吸流速-容量曲线呼气支的形态可提示时间常数不稳定的一定程度。",
+    "entities": [
+      {
+        "entity": "被动呼吸流速-容量曲线",
+        "type": "ite",
+        "start_idx": 12,
+        "end_idx": 22
+      },
+      {
+        "entity": "呼气支",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 25
+      },
+      {
+        "entity": "时间常数",
+        "type": "bod",
+        "start_idx": 32,
+        "end_idx": 35
+      }
+    ]
+  },
+  {
+    "text": "皮疹主要分布于躯干及四肢，包括手掌和脚底，颜面部较少见。",
+    "entities": [
+      {
+        "entity": "躯干",
+        "type": "bod",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "四肢",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "手掌",
+        "type": "bod",
+        "start_idx": 15,
+        "end_idx": 16
+      },
+      {
+        "entity": "脚底",
+        "type": "bod",
+        "start_idx": 18,
+        "end_idx": 19
+      }
+    ]
+  },
+  {
+    "text": "第三节常用治疗方案一、喷射雾化方案（一）应用原理通过高压气体冲击液体，产生雾滴，它具有雾滴直径均匀，大小适中（1～5μm），对液体中药物成分无影响等优点。",
+    "entities": [
+      {
+        "entity": "喷射雾化方案",
+        "type": "pro",
+        "start_idx": 11,
+        "end_idx": 16
+      },
+      {
+        "entity": "高压气体",
+        "type": "bod",
+        "start_idx": 26,
+        "end_idx": 29
+      },
+      {
+        "entity": "液体中药物",
+        "type": "dru",
+        "start_idx": 63,
+        "end_idx": 67
+      }
+    ]
+  },
+  {
+    "text": "③要严格掌握用药剂量（表8-8），用药期间注意心血管方面副作用的产生。",
+    "entities": [
+      {
+        "entity": "药剂量",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "心血管",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 25
+      },
+      {
+        "entity": "心血管方面副作用",
+        "type": "sym",
+        "start_idx": 23,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "（二）慢性肾脏疾病伴肾素和醛固酮分泌不足如糖尿病肾病、紫癜性肾炎、镰状细胞肾病、肾硬化及间质性肾炎等。",
+    "entities": [
+      {
+        "entity": "慢性肾脏疾病",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 8
+      },
+      {
+        "entity": "肾素",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 11
+      },
+      {
+        "entity": "醛固酮",
+        "type": "dru",
+        "start_idx": 13,
+        "end_idx": 15
+      },
+      {
+        "entity": "糖尿病肾病",
+        "type": "dis",
+        "start_idx": 21,
+        "end_idx": 25
+      },
+      {
+        "entity": "紫癜性肾炎",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 31
+      },
+      {
+        "entity": "镰状细胞肾病",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 38
+      },
+      {
+        "entity": "肾硬化",
+        "type": "dis",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "间质性肾炎",
+        "type": "dis",
+        "start_idx": 44,
+        "end_idx": 48
+      },
+      {
+        "entity": "肾素和醛固酮分泌不足",
+        "type": "sym",
+        "start_idx": 10,
+        "end_idx": 19
+      }
+    ]
+  },
+  {
+    "text": "（五）本病通常不出现肾钙化与肾结石，骨损害仅见于尿毒症患者。",
+    "entities": [
+      {
+        "entity": "尿毒症",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 10
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 14
+      }
+    ]
+  },
+  {
+    "text": "（三）盐皮质激素治疗氟氢可的松（fludrocortisone）0.01mg/（kg•d），可纠正酸中毒并降低血钾。",
+    "entities": [
+      {
+        "entity": "氟氢可的松",
+        "type": "dru",
+        "start_idx": 10,
+        "end_idx": 14
+      },
+      {
+        "entity": "盐皮质激素",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 7
+      }
+    ]
+  },
+  {
+    "text": "营养及发育差，精神委靡，表情淡漠，不愿活动。",
+    "entities": [
+      {
+        "entity": "营养及发育差",
+        "type": "sym",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "entity": "精神委靡",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "表情淡漠",
+        "type": "sym",
+        "start_idx": 12,
+        "end_idx": 15
+      },
+      {
+        "entity": "不愿活动",
+        "type": "sym",
+        "start_idx": 17,
+        "end_idx": 20
+      },
+      {
+        "entity": "营养",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 1
+      }
+    ]
+  },
+  {
+    "text": "（二）驱虫疗法驱钩药物的选择，应根据钩虫虫种及其他肠道寄生虫的合并感染情况选择高效、低毒的药物。",
+    "entities": [
+      {
+        "entity": "驱虫疗法",
+        "type": "pro",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "entity": "驱钩药物",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "高效、低毒的药物",
+        "type": "dru",
+        "start_idx": 39,
+        "end_idx": 46
+      },
+      {
+        "entity": "钩虫",
+        "type": "mic",
+        "start_idx": 18,
+        "end_idx": 19
+      },
+      {
+        "entity": "肠道寄生虫",
+        "type": "mic",
+        "start_idx": 25,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "为了提高疗效，尤其是驱美洲钩虫的疗效，可采用交替用药和联合用药。",
+    "entities": [
+      {
+        "entity": "美洲钩虫",
+        "type": "mic",
+        "start_idx": 11,
+        "end_idx": 14
+      },
+      {
+        "entity": "交替用药",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 25
+      },
+      {
+        "entity": "联合用药",
+        "type": "dru",
+        "start_idx": 27,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "对十二指肠钩虫的疗效优于美洲钩虫。",
+    "entities": [
+      {
+        "entity": "十二指肠钩虫",
+        "type": "mic",
+        "start_idx": 1,
+        "end_idx": 6
+      },
+      {
+        "entity": "美洲钩虫",
+        "type": "mic",
+        "start_idx": 12,
+        "end_idx": 15
+      }
+    ]
+  },
+  {
+    "text": "一般虫卵阴转率为94%～98%。",
+    "entities": [
+      {
+        "entity": "虫卵阴转率",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 6
+      }
+    ]
+  },
+  {
+    "text": "4.噻嘧啶基质10mg/kg顿服，可连服3天，虫卵阴转率达95%以上；美洲钩虫为62.5%～80.0%。",
+    "entities": [
+      {
+        "entity": "噻嘧啶",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "美洲钩虫",
+        "type": "dru",
+        "start_idx": 35,
+        "end_idx": 38
+      },
+      {
+        "entity": "虫卵",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "顿服",
+        "type": "pro",
+        "start_idx": 14,
+        "end_idx": 15
+      },
+      {
+        "entity": "虫卵阴转率",
+        "type": "ite",
+        "start_idx": 23,
+        "end_idx": 27
+      }
+    ]
+  },
+  {
+    "text": "结合生产，加强粪肥卫生管理和无害化措施。",
+    "entities": []
+  },
+  {
+    "text": "但必须进行鉴定，即用特异性抗血清作中和试验或其他试验来确定该病毒属于何种病毒及哪个血清型或组。",
+    "entities": [
+      {
+        "entity": "中和试验",
+        "type": "ite",
+        "start_idx": 17,
+        "end_idx": 20
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 30,
+        "end_idx": 31
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 36,
+        "end_idx": 37
+      }
+    ]
+  },
+  {
+    "text": "这一方法的优点是，相对简单、省时，可检出难于或无法培养分离的病毒。",
+    "entities": [
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 30,
+        "end_idx": 31
+      }
+    ]
+  },
+  {
+    "text": "可以用于检测与宿主细胞基因组整合存在的病毒核酸。",
+    "entities": []
+  },
+  {
+    "text": "普通PCR属于定性检测，近几年已有人开发出定量PCR方法，但在技术上的难度较大。",
+    "entities": [
+      {
+        "entity": "PCR",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 4
+      },
+      {
+        "entity": "PCR",
+        "type": "ite",
+        "start_idx": 23,
+        "end_idx": 25
+      },
+      {
+        "entity": "定性检测",
+        "type": "ite",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "定量PCR",
+        "type": "ite",
+        "start_idx": 21,
+        "end_idx": 25
+      }
+    ]
+  },
+  {
+    "text": "但PCR检测结果不能说明患者所患的是急性还是慢性感染或是病毒携带状态。",
+    "entities": [
+      {
+        "entity": "PCR检测",
+        "type": "ite",
+        "start_idx": 1,
+        "end_idx": 5
+      },
+      {
+        "entity": "慢性感染",
+        "type": "dis",
+        "start_idx": 22,
+        "end_idx": 25
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 28,
+        "end_idx": 29
+      }
+    ]
+  },
+  {
+    "text": "大多数病毒的急性原发性感染的早期体内便出现病毒特异性IgM抗体，如能检出某病毒的特异性IgM抗体，可以作出该病毒急性或近期感染的诊断。",
+    "entities": [
+      {
+        "entity": "特异性IgM抗体",
+        "type": "ite",
+        "start_idx": 23,
+        "end_idx": 30
+      },
+      {
+        "entity": "特异性IgM抗体",
+        "type": "ite",
+        "start_idx": 40,
+        "end_idx": 47
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 21,
+        "end_idx": 22
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 37,
+        "end_idx": 38
+      },
+      {
+        "entity": "病毒",
+        "type": "mic",
+        "start_idx": 54,
+        "end_idx": 55
+      }
+    ]
+  },
+  {
+    "text": "前者如遗传性毛细血管扩张症，系因小动、静脉及毛细血管壁变薄，仅有一层内皮组织构成，缺乏弹力纤维及肌层的血管壁失去舒缩功能，并因血流冲击成瘤状扩张，容易破裂出血。",
+    "entities": [
+      {
+        "entity": "遗传性毛细血管扩张症",
+        "type": "dis",
+        "start_idx": 3,
+        "end_idx": 12
+      },
+      {
+        "entity": "静脉",
+        "type": "bod",
+        "start_idx": 19,
+        "end_idx": 20
+      },
+      {
+        "entity": "毛细血管壁",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 26
+      },
+      {
+        "entity": "内皮组织",
+        "type": "bod",
+        "start_idx": 34,
+        "end_idx": 37
+      },
+      {
+        "entity": "弹力纤维",
+        "type": "bod",
+        "start_idx": 43,
+        "end_idx": 46
+      },
+      {
+        "entity": "肌层",
+        "type": "bod",
+        "start_idx": 48,
+        "end_idx": 49
+      },
+      {
+        "entity": "血管壁失去舒缩功能",
+        "type": "dis",
+        "start_idx": 51,
+        "end_idx": 59
+      },
+      {
+        "entity": "瘤状扩张",
+        "type": "dis",
+        "start_idx": 68,
+        "end_idx": 71
+      },
+      {
+        "entity": "毛细血管",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 9
+      },
+      {
+        "entity": "毛细血管",
+        "type": "bod",
+        "start_idx": 22,
+        "end_idx": 25
+      },
+      {
+        "entity": "血管壁",
+        "type": "bod",
+        "start_idx": 24,
+        "end_idx": 26
+      },
+      {
+        "entity": "血管壁",
+        "type": "bod",
+        "start_idx": 51,
+        "end_idx": 53
+      },
+      {
+        "entity": "破裂出血",
+        "type": "dis",
+        "start_idx": 75,
+        "end_idx": 78
+      }
+    ]
+  },
+  {
+    "text": "获得性者有过敏性、感染性、中毒性紫癜，维生素C、维生素P缺乏症以及单纯性紫癜等。",
+    "entities": [
+      {
+        "entity": "中毒性紫癜",
+        "type": "dis",
+        "start_idx": 13,
+        "end_idx": 17
+      },
+      {
+        "entity": "单纯性紫癜",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 37
+      },
+      {
+        "entity": "维生素P缺乏症",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 30
+      },
+      {
+        "entity": "维生素C",
+        "type": "dru",
+        "start_idx": 19,
+        "end_idx": 22
+      },
+      {
+        "entity": "维生素P",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 27
+      },
+      {
+        "entity": "缺乏症",
+        "type": "dis",
+        "start_idx": 28,
+        "end_idx": 30
+      }
+    ]
+  },
+  {
+    "text": "脑膜有炎症时可达血浓度的90%。",
+    "entities": []
+  },
+  {
+    "text": "其他不良反应包括过敏、血小板减少、白细胞减低，但都很少见。",
+    "entities": [
+      {
+        "entity": "过敏",
+        "type": "ite",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "血小板减少",
+        "type": "dru",
+        "start_idx": 11,
+        "end_idx": 15
+      },
+      {
+        "entity": "白细胞减低",
+        "type": "dru",
+        "start_idx": 17,
+        "end_idx": 21
+      }
+    ]
+  },
+  {
+    "text": "（三）吡嗪酰胺吡嗪酰胺（PZA或Z）属半杀菌药，其特点：①PZA作用受环境酸碱度影响大，当常规培养基pH7.0时PZA几乎对结核菌无作用；而当pH5.0～5.5时则对结核菌可发挥抑菌甚至杀菌作用。",
+    "entities": [
+      {
+        "entity": "吡嗪酰胺",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "entity": "吡嗪酰胺",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "PZA",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 14
+      },
+      {
+        "entity": "PZA",
+        "type": "dru",
+        "start_idx": 29,
+        "end_idx": 31
+      },
+      {
+        "entity": "PZA",
+        "type": "dru",
+        "start_idx": 56,
+        "end_idx": 58
+      },
+      {
+        "entity": "结核菌",
+        "type": "mic",
+        "start_idx": 62,
+        "end_idx": 64
+      },
+      {
+        "entity": "结核菌",
+        "type": "mic",
+        "start_idx": 83,
+        "end_idx": 85
+      },
+      {
+        "entity": "pH",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 51
+      },
+      {
+        "entity": "pH",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 72
+      },
+      {
+        "entity": "常规培养基",
+        "type": "ite",
+        "start_idx": 45,
+        "end_idx": 49
+      },
+      {
+        "entity": "pH7.0",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 54
+      },
+      {
+        "entity": "pH5.0～5.5",
+        "type": "bod",
+        "start_idx": 71,
+        "end_idx": 79
+      },
+      {
+        "entity": "抑菌甚至杀菌作用",
+        "type": "sym",
+        "start_idx": 89,
+        "end_idx": 96
+      }
+    ]
+  },
+  {
+    "text": "⑤单一用药极易产生耐药，PZA与INH联合用可增强杀菌作用，目前INH+RFP+PZA为最强大灭菌组合。",
+    "entities": [
+      {
+        "entity": "PZA",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 14
+      },
+      {
+        "entity": "PZA",
+        "type": "dru",
+        "start_idx": 40,
+        "end_idx": 42
+      },
+      {
+        "entity": "INH",
+        "type": "dru",
+        "start_idx": 16,
+        "end_idx": 18
+      },
+      {
+        "entity": "INH",
+        "type": "dru",
+        "start_idx": 32,
+        "end_idx": 34
+      },
+      {
+        "entity": "RFP",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 38
+      }
+    ]
+  },
+  {
+    "text": "（五）乙胺丁醇乙胺丁醇（EB或B）为抑菌药。",
+    "entities": [
+      {
+        "entity": "乙胺丁醇",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 6
+      },
+      {
+        "entity": "乙胺丁醇",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "EB",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 13
+      }
+    ]
+  },
+  {
+    "text": "②EB通透性较好。",
+    "entities": []
+  },
+  {
+    "text": "（六）乙（丙）硫异烟胺1314TH及1321TH（ETH）乙（丙）硫异烟胺1314TH及1321TH（ETH）均为异烟肼衍生物，两药作用机制，吸收分布及用法均相似，只是1321TH副作用较轻。",
+    "entities": [
+      {
+        "entity": "1321TH",
+        "type": "dru",
+        "start_idx": 18,
+        "end_idx": 23
+      },
+      {
+        "entity": "1321TH",
+        "type": "dru",
+        "start_idx": 44,
+        "end_idx": 49
+      },
+      {
+        "entity": "1321TH",
+        "type": "dru",
+        "start_idx": 84,
+        "end_idx": 89
+      },
+      {
+        "entity": "异烟肼",
+        "type": "dru",
+        "start_idx": 57,
+        "end_idx": 59
+      }
+    ]
+  },
+  {
+    "text": "其特点：①口服吸收好；②吸收后广泛分布于组织及浆膜腔。",
+    "entities": [
+      {
+        "entity": "吸收",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 8
+      },
+      {
+        "entity": "吸收",
+        "type": "dru",
+        "start_idx": 12,
+        "end_idx": 13
+      },
+      {
+        "entity": "组织",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "浆膜腔",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 25
+      }
+    ]
+  },
+  {
+    "text": "卡那霉素和丁胺卡那霉素有明显的抗结核活性而用于耐链霉素结核病。",
+    "entities": [
+      {
+        "entity": "卡那霉素",
+        "type": "dru",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "卡那霉素",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "丁胺卡那霉素",
+        "type": "dru",
+        "start_idx": 5,
+        "end_idx": 10
+      },
+      {
+        "entity": "结核病",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 29
+      },
+      {
+        "entity": "链霉素",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "胸部X线检查可表现肺纹理改变、肺不张和肺气肿。",
+    "entities": [
+      {
+        "entity": "胸部X线检查",
+        "type": "ite",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "entity": "肺不张",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "肺气肿",
+        "type": "dis",
+        "start_idx": 19,
+        "end_idx": 21
+      },
+      {
+        "entity": "肺纹理",
+        "type": "bod",
+        "start_idx": 9,
+        "end_idx": 11
+      }
+    ]
+  },
+  {
+    "text": "根据体内代谢的需要，糖原分子不断合成和分解，它们是在一组完全不同的催化酶作用下完成。",
+    "entities": [
+      {
+        "entity": "体内",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 3
+      }
+    ]
+  },
+  {
+    "text": "上述磷酸化酶只能分解到糖原分支点之前4个葡萄糖残基，其剩余的葡萄糖残基通过脱支酶的作用，分解出葡萄糖。",
+    "entities": []
+  },
+  {
+    "text": "注射肾上腺素或胰高肾上腺素后对血糖浓度无改血糖浓度儿茶酚胺正常。",
+    "entities": [
+      {
+        "entity": "肾上腺素",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "肾上腺素",
+        "type": "dru",
+        "start_idx": 9,
+        "end_idx": 12
+      },
+      {
+        "entity": "胰高肾上腺素",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 12
+      },
+      {
+        "entity": "血糖浓度",
+        "type": "ite",
+        "start_idx": 15,
+        "end_idx": 18
+      },
+      {
+        "entity": "血糖浓度",
+        "type": "ite",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "儿茶酚胺",
+        "type": "mic",
+        "start_idx": 25,
+        "end_idx": 28
+      },
+      {
+        "entity": "儿茶酚胺",
+        "type": "dru",
+        "start_idx": 25,
+        "end_idx": 28
+      }
+    ]
+  },
+  {
+    "text": "无酮血症和高血脂，进食后肾上腺素或胰高痛风发作验有效应，智能发育正常，肝脏及心脏功能衰竭少见，尿儿茶酚胺浓度正常，预后好。",
+    "entities": [
+      {
+        "entity": "高血脂",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 7
+      },
+      {
+        "entity": "酮血症",
+        "type": "dis",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "肾上腺素",
+        "type": "bod",
+        "start_idx": 12,
+        "end_idx": 15
+      },
+      {
+        "entity": "肝脏",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 36
+      },
+      {
+        "entity": "心脏",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 39
+      },
+      {
+        "entity": "尿儿茶酚胺",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 51
+      },
+      {
+        "entity": "无酮血症",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "entity": "胰高痛风",
+        "type": "dis",
+        "start_idx": 17,
+        "end_idx": 20
+      },
+      {
+        "entity": "智能发育正常",
+        "type": "dis",
+        "start_idx": 28,
+        "end_idx": 33
+      },
+      {
+        "entity": "预后好",
+        "type": "dis",
+        "start_idx": 57,
+        "end_idx": 59
+      },
+      {
+        "entity": "尿儿茶酚胺浓度正常",
+        "type": "dis",
+        "start_idx": 47,
+        "end_idx": 55
+      }
+    ]
+  },
+  {
+    "text": "GSDⅨ型肝脏磷酸化酶激酶缺陷（由4个不同的亚单位组成，包括PHKA2、PHKB、PHKG2及CALM1）。",
+    "entities": [
+      {
+        "entity": "GSDⅨ型",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "entity": "肝脏",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 6
+      },
+      {
+        "entity": "PHKA2",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 34
+      },
+      {
+        "entity": "PHKB",
+        "type": "bod",
+        "start_idx": 36,
+        "end_idx": 39
+      },
+      {
+        "entity": "PHKG2",
+        "type": "bod",
+        "start_idx": 41,
+        "end_idx": 45
+      },
+      {
+        "entity": "CALM1",
+        "type": "bod",
+        "start_idx": 47,
+        "end_idx": 51
+      },
+      {
+        "entity": "磷酸化酶激酶",
+        "type": "ite",
+        "start_idx": 7,
+        "end_idx": 12
+      },
+      {
+        "entity": "PHKA2",
+        "type": "mic",
+        "start_idx": 30,
+        "end_idx": 34
+      },
+      {
+        "entity": "PHKB",
+        "type": "mic",
+        "start_idx": 36,
+        "end_idx": 39
+      },
+      {
+        "entity": "PHKG2",
+        "type": "mic",
+        "start_idx": 41,
+        "end_idx": 45
+      },
+      {
+        "entity": "CALM1",
+        "type": "mic",
+        "start_idx": 47,
+        "end_idx": 51
+      }
+    ]
+  },
+  {
+    "text": "服用生玉米淀粉可防治低血糖和高乳酸血症。",
+    "entities": [
+      {
+        "entity": "生玉米淀粉",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 6
+      },
+      {
+        "entity": "低血糖",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "高乳酸血症",
+        "type": "dis",
+        "start_idx": 14,
+        "end_idx": 18
+      }
+    ]
+  },
+  {
+    "text": "由于肾小球滤过膜受免疫或其他病因的损伤，电荷屏障或/和分子筛的屏障作用减弱，血浆蛋白大量漏入尿中。",
+    "entities": [
+      {
+        "entity": "肾小球滤过膜",
+        "type": "bod",
+        "start_idx": 2,
+        "end_idx": 7
+      },
+      {
+        "entity": "血浆蛋白",
+        "type": "dru",
+        "start_idx": 38,
+        "end_idx": 41
+      },
+      {
+        "entity": "尿",
+        "type": "bod",
+        "start_idx": 46,
+        "end_idx": 46
+      },
+      {
+        "entity": "电荷屏障",
+        "type": "bod",
+        "start_idx": 20,
+        "end_idx": 23
+      },
+      {
+        "entity": "分子筛",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 29
+      },
+      {
+        "entity": "血浆蛋白",
+        "type": "bod",
+        "start_idx": 38,
+        "end_idx": 41
+      }
+    ]
+  },
+  {
+    "text": "此外，肾小球上皮细胞及近端小管上皮细胞可胞饮白蛋白并对其进行降解，如果蛋白过载可导致肾小球上皮细胞及小管上皮细胞功能受损，这可能与疾病进展及治疗反应减低有关。",
+    "entities": [
+      {
+        "entity": "肾小球上皮细胞",
+        "type": "bod",
+        "start_idx": 3,
+        "end_idx": 9
+      },
+      {
+        "entity": "肾小球上皮细胞",
+        "type": "bod",
+        "start_idx": 42,
+        "end_idx": 48
+      },
+      {
+        "entity": "近端小管上皮细胞",
+        "type": "bod",
+        "start_idx": 11,
+        "end_idx": 18
+      },
+      {
+        "entity": "白蛋白",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "蛋白过载",
+        "type": "dis",
+        "start_idx": 35,
+        "end_idx": 38
+      },
+      {
+        "entity": "小管上皮细胞",
+        "type": "bod",
+        "start_idx": 13,
+        "end_idx": 18
+      },
+      {
+        "entity": "小管上皮细胞",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 55
+      }
+    ]
+  },
+  {
+    "text": "据1984年国际小儿肾脏病研究学会（ISKDC）统计，直接或间接因感染死亡者占肾病患儿死亡的70%。",
+    "entities": [
+      {
+        "entity": "肾病",
+        "type": "dis",
+        "start_idx": 39,
+        "end_idx": 40
+      },
+      {
+        "entity": "死亡",
+        "type": "dis",
+        "start_idx": 35,
+        "end_idx": 36
+      },
+      {
+        "entity": "死亡",
+        "type": "dis",
+        "start_idx": 43,
+        "end_idx": 44
+      },
+      {
+        "entity": "感染",
+        "type": "dis",
+        "start_idx": 33,
+        "end_idx": 34
+      }
+    ]
+  },
+  {
+    "text": "除肾静脉外，其他部位的静脉或动脉也可发生此类并发症，如股静脉、股动脉、肺动脉、肠系膜动脉、冠状动脉和颅内动脉等，并引起相应症状。",
+    "entities": [
+      {
+        "entity": "肾静脉",
+        "type": "bod",
+        "start_idx": 1,
+        "end_idx": 3
+      },
+      {
+        "entity": "股静脉",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 29
+      },
+      {
+        "entity": "股动脉",
+        "type": "bod",
+        "start_idx": 31,
+        "end_idx": 33
+      },
+      {
+        "entity": "肺动脉",
+        "type": "bod",
+        "start_idx": 35,
+        "end_idx": 37
+      },
+      {
+        "entity": "肠系膜动脉",
+        "type": "bod",
+        "start_idx": 39,
+        "end_idx": 43
+      },
+      {
+        "entity": "冠状动脉",
+        "type": "bod",
+        "start_idx": 45,
+        "end_idx": 48
+      },
+      {
+        "entity": "颅内动脉",
+        "type": "bod",
+        "start_idx": 50,
+        "end_idx": 53
+      }
+    ]
+  },
+  {
+    "text": "3.电解质紊乱主要为低钠血症、低钾血症及低钙血症。",
+    "entities": [
+      {
+        "entity": "低钠血症",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 13
+      },
+      {
+        "entity": "低钾血症",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 18
+      },
+      {
+        "entity": "低钙血症",
+        "type": "dis",
+        "start_idx": 20,
+        "end_idx": 23
+      },
+      {
+        "entity": "电解质",
+        "type": "ite",
+        "start_idx": 2,
+        "end_idx": 4
+      }
+    ]
+  },
+  {
+    "text": "蛋白尿时钙与蛋白结合而丢失，维生素D结合蛋白丢失，肠吸收钙减低，服用激素的影响以及骨骼对甲状旁腺素调节作用的敏感性降低均可导致低钙血症，可出现低钙惊厥及骨质疏松。",
+    "entities": [
+      {
+        "entity": "肠",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 25
+      },
+      {
+        "entity": "激素",
+        "type": "dru",
+        "start_idx": 34,
+        "end_idx": 35
+      },
+      {
+        "entity": "低钙血症",
+        "type": "dis",
+        "start_idx": 63,
+        "end_idx": 66
+      },
+      {
+        "entity": "低钙惊厥",
+        "type": "sym",
+        "start_idx": 71,
+        "end_idx": 74
+      },
+      {
+        "entity": "骨质疏松",
+        "type": "dis",
+        "start_idx": 76,
+        "end_idx": 79
+      },
+      {
+        "entity": "蛋白尿",
+        "type": "ite",
+        "start_idx": 0,
+        "end_idx": 2
+      }
+    ]
+  },
+  {
+    "text": "8.其他如生长障碍，可能与蛋白丢失致营养不良，激素作用以及IGF及其结合蛋白失衡有关。",
+    "entities": [
+      {
+        "entity": "生长障碍",
+        "type": "bod",
+        "start_idx": 5,
+        "end_idx": 8
+      },
+      {
+        "entity": "营养不良",
+        "type": "dis",
+        "start_idx": 18,
+        "end_idx": 21
+      },
+      {
+        "entity": "激素",
+        "type": "bod",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "IGF",
+        "type": "bod",
+        "start_idx": 29,
+        "end_idx": 31
+      },
+      {
+        "entity": "结合蛋白",
+        "type": "bod",
+        "start_idx": 34,
+        "end_idx": 37
+      },
+      {
+        "entity": "生长障碍",
+        "type": "dis",
+        "start_idx": 5,
+        "end_idx": 8
+      },
+      {
+        "entity": "激素",
+        "type": "dru",
+        "start_idx": 23,
+        "end_idx": 24
+      }
+    ]
+  },
+  {
+    "text": "动脉粥样硬化与长期高脂血症有关。",
+    "entities": [
+      {
+        "entity": "动脉粥样硬化",
+        "type": "dis",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "entity": "高脂血症",
+        "type": "dis",
+        "start_idx": 9,
+        "end_idx": 12
+      },
+      {
+        "entity": "长期高脂血症",
+        "type": "sym",
+        "start_idx": 7,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "肾功能一般正常，合并肾功能不全时可有BUN及Cr升高，内生肌酐廓清率下降。",
+    "entities": [
+      {
+        "entity": "肾功能",
+        "type": "bod",
+        "start_idx": 0,
+        "end_idx": 2
+      },
+      {
+        "entity": "肾功能",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "内生肌酐廓清率",
+        "type": "bod",
+        "start_idx": 27,
+        "end_idx": 33
+      },
+      {
+        "entity": "肾功能不全",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 14
+      },
+      {
+        "entity": "BUN",
+        "type": "ite",
+        "start_idx": 18,
+        "end_idx": 20
+      },
+      {
+        "entity": "Cr",
+        "type": "ite",
+        "start_idx": 22,
+        "end_idx": 23
+      },
+      {
+        "entity": "内生肌酐廓清率",
+        "type": "ite",
+        "start_idx": 27,
+        "end_idx": 33
+      },
+      {
+        "entity": "肾功能不全",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 14
+      }
+    ]
+  },
+  {
+    "text": "据我国临床分型资料，单纯性病例78.9%呈完全效应；而肾炎型者为34.3%。",
+    "entities": [
+      {
+        "entity": "单纯性",
+        "type": "dis",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "肾炎型",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 29
+      },
+      {
+        "entity": "完全效应",
+        "type": "sym",
+        "start_idx": 21,
+        "end_idx": 24
+      },
+      {
+        "entity": "34.3%",
+        "type": "sym",
+        "start_idx": 32,
+        "end_idx": 36
+      }
+    ]
+  },
+  {
+    "text": "2.甲泼尼龙冲击治疗主要用于难治性肾病。",
+    "entities": [
+      {
+        "entity": "甲泼尼龙",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "难治性肾病",
+        "type": "dis",
+        "start_idx": 14,
+        "end_idx": 18
+      }
+    ]
+  },
+  {
+    "text": "此外曲安奈德（triamcinoloneacetonide，康宁克通A，kenacortA）每次0.6～1mg/kg，每1～2个月肌注一次，用于肾病皮质激素减完后的稳定期，可防复发。",
+    "entities": [
+      {
+        "entity": "曲安奈德",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "triamcinoloneacetonide",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 28
+      },
+      {
+        "entity": "康宁克通A",
+        "type": "dru",
+        "start_idx": 30,
+        "end_idx": 34
+      },
+      {
+        "entity": "kenacortA",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 44
+      },
+      {
+        "entity": "肾病",
+        "type": "dis",
+        "start_idx": 72,
+        "end_idx": 73
+      },
+      {
+        "entity": "皮质激素",
+        "type": "dru",
+        "start_idx": 74,
+        "end_idx": 77
+      }
+    ]
+  },
+  {
+    "text": "此外，如突然停药或遇手术、感染等应激状态时，内源性肾上腺皮质激素分泌不足，可产生肾上腺皮质功能不全甚至肾上腺危象表现，如恶心、呕吐、腹痛和休克。",
+    "entities": [
+      {
+        "entity": "肾上腺皮质激素",
+        "type": "dru",
+        "start_idx": 25,
+        "end_idx": 31
+      },
+      {
+        "entity": "肾上腺皮质功能不全",
+        "type": "dis",
+        "start_idx": 40,
+        "end_idx": 48
+      },
+      {
+        "entity": "肾上腺危象",
+        "type": "dis",
+        "start_idx": 51,
+        "end_idx": 55
+      },
+      {
+        "entity": "恶心",
+        "type": "sym",
+        "start_idx": 60,
+        "end_idx": 61
+      },
+      {
+        "entity": "呕吐",
+        "type": "sym",
+        "start_idx": 63,
+        "end_idx": 64
+      },
+      {
+        "entity": "腹痛",
+        "type": "sym",
+        "start_idx": 66,
+        "end_idx": 67
+      },
+      {
+        "entity": "休克",
+        "type": "sym",
+        "start_idx": 69,
+        "end_idx": 70
+      }
+    ]
+  },
+  {
+    "text": "【预后】儿童肾病综合征的预后与原发病、病理类型及治疗反应密切相关。",
+    "entities": [
+      {
+        "entity": "儿童肾病综合征",
+        "type": "dis",
+        "start_idx": 4,
+        "end_idx": 10
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 6,
+        "end_idx": 6
+      },
+      {
+        "entity": "原发病",
+        "type": "dis",
+        "start_idx": 15,
+        "end_idx": 17
+      },
+      {
+        "entity": "病理类型",
+        "type": "dis",
+        "start_idx": 19,
+        "end_idx": 22
+      }
+    ]
+  },
+  {
+    "text": "Habib等报告1～18年随访发展成慢性肾衰或者死亡者MCN为7%、FSGS为38%、MN为8%，以及MPGN为41%。",
+    "entities": [
+      {
+        "entity": "慢性肾衰",
+        "type": "dis",
+        "start_idx": 18,
+        "end_idx": 21
+      },
+      {
+        "entity": "死亡",
+        "type": "dis",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "MCN",
+        "type": "dis",
+        "start_idx": 27,
+        "end_idx": 29
+      },
+      {
+        "entity": "FSGS",
+        "type": "dis",
+        "start_idx": 34,
+        "end_idx": 37
+      },
+      {
+        "entity": "MN",
+        "type": "dis",
+        "start_idx": 43,
+        "end_idx": 44
+      },
+      {
+        "entity": "MPGN",
+        "type": "dis",
+        "start_idx": 51,
+        "end_idx": 54
+      }
+    ]
+  },
+  {
+    "text": "（一）茶碱类药物常用制剂及使用方法1.氨茶碱氨茶碱（aminophylline）是茶碱与乙二胺形成的复盐，约含茶碱77%～83%，因而氨茶碱剂量相当于茶碱剂量/0.8。",
+    "entities": [
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 19,
+        "end_idx": 21
+      },
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 22,
+        "end_idx": 24
+      },
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 67,
+        "end_idx": 69
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 4
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 23,
+        "end_idx": 24
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 41,
+        "end_idx": 42
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 55,
+        "end_idx": 56
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 68,
+        "end_idx": 69
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 75,
+        "end_idx": 76
+      }
+    ]
+  },
+  {
+    "text": "表8-18静脉输注氨茶碱的维持量2.二羟丙茶碱（喘定）二羟丙茶碱是茶碱的N-7位上接二羟丙基的中性衍生物，对胃的刺激性较小；该药心脏兴奋作用弱，因此适用于心动过速患儿。",
+    "entities": [
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 9,
+        "end_idx": 11
+      },
+      {
+        "entity": "喘定",
+        "type": "dru",
+        "start_idx": 24,
+        "end_idx": 25
+      },
+      {
+        "entity": "胃",
+        "type": "bod",
+        "start_idx": 54,
+        "end_idx": 54
+      },
+      {
+        "entity": "心脏",
+        "type": "bod",
+        "start_idx": 64,
+        "end_idx": 65
+      },
+      {
+        "entity": "心动过速",
+        "type": "dis",
+        "start_idx": 77,
+        "end_idx": 80
+      },
+      {
+        "entity": "二羟丙茶碱（喘定）",
+        "type": "dru",
+        "start_idx": 18,
+        "end_idx": 26
+      }
+    ]
+  },
+  {
+    "text": "（2）复方长效氨茶碱片：每片白色外层含氨茶碱100mg，氯苯那敏2mg，苯巴比妥15mg，氢氧化铝30mg；棕色内层含氨茶碱和茶碱各100mg。",
+    "entities": [
+      {
+        "entity": "复方长效氨茶碱片",
+        "type": "dru",
+        "start_idx": 3,
+        "end_idx": 10
+      },
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 7,
+        "end_idx": 9
+      },
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 19,
+        "end_idx": 21
+      },
+      {
+        "entity": "氨茶碱",
+        "type": "dru",
+        "start_idx": 59,
+        "end_idx": 61
+      },
+      {
+        "entity": "氯苯那敏",
+        "type": "dru",
+        "start_idx": 28,
+        "end_idx": 31
+      },
+      {
+        "entity": "苯巴比妥",
+        "type": "dru",
+        "start_idx": 36,
+        "end_idx": 39
+      },
+      {
+        "entity": "氢氧化铝",
+        "type": "dru",
+        "start_idx": 45,
+        "end_idx": 48
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 20,
+        "end_idx": 21
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 60,
+        "end_idx": 61
+      },
+      {
+        "entity": "茶碱",
+        "type": "dru",
+        "start_idx": 63,
+        "end_idx": 64
+      }
+    ]
+  },
+  {
+    "text": "其中60%～80%为异位型膨出，80%膨出来自重复肾的上肾部输尿管。",
+    "entities": [
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 25
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 28,
+        "end_idx": 28
+      },
+      {
+        "entity": "输尿管",
+        "type": "bod",
+        "start_idx": 30,
+        "end_idx": 32
+      }
+    ]
+  },
+  {
+    "text": "但VCUG可发现膀胱输尿管反流情况。",
+    "entities": [
+      {
+        "entity": "膀胱",
+        "type": "bod",
+        "start_idx": 8,
+        "end_idx": 9
+      },
+      {
+        "entity": "输尿管",
+        "type": "bod",
+        "start_idx": 10,
+        "end_idx": 12
+      },
+      {
+        "entity": "反流情况",
+        "type": "sym",
+        "start_idx": 13,
+        "end_idx": 16
+      },
+      {
+        "entity": "VCUG",
+        "type": "pro",
+        "start_idx": 1,
+        "end_idx": 4
+      }
+    ]
+  },
+  {
+    "text": "无论单纯型或异位型输尿管膨出，无临床症状及并发症，肾功能良好者，均不需治疗。",
+    "entities": [
+      {
+        "entity": "输尿管膨出",
+        "type": "dis",
+        "start_idx": 9,
+        "end_idx": 13
+      },
+      {
+        "entity": "无临床症状",
+        "type": "sym",
+        "start_idx": 15,
+        "end_idx": 19
+      },
+      {
+        "entity": "并发症",
+        "type": "sym",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "entity": "肾功能",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 27
+      },
+      {
+        "entity": "临床症状",
+        "type": "sym",
+        "start_idx": 16,
+        "end_idx": 19
+      },
+      {
+        "entity": "肾",
+        "type": "bod",
+        "start_idx": 25,
+        "end_idx": 25
+      }
+    ]
+  },
+  {
+    "text": "三、轮状病毒疫苗轮状病毒（rotavirus，RV）是世界范围内引起婴幼儿腹泻的主要病原体。",
+    "entities": [
+      {
+        "entity": "轮状病毒",
+        "type": "mic",
+        "start_idx": 2,
+        "end_idx": 5
+      },
+      {
+        "entity": "轮状病毒",
+        "type": "mic",
+        "start_idx": 8,
+        "end_idx": 11
+      },
+      {
+        "entity": "婴幼儿腹泻",
+        "type": "dis",
+        "start_idx": 34,
+        "end_idx": 38
+      },
+      {
+        "entity": "轮状病毒疫苗",
+        "type": "dru",
+        "start_idx": 2,
+        "end_idx": 7
+      }
+    ]
+  },
+  {
+    "text": "RV外层蛋白VP7和VP4是主要的中和抗原。",
+    "entities": [
+      {
+        "entity": "RV",
+        "type": "mic",
+        "start_idx": 0,
+        "end_idx": 1
+      },
+      {
+        "entity": "VP7",
+        "type": "ite",
+        "start_idx": 6,
+        "end_idx": 8
+      },
+      {
+        "entity": "VP4",
+        "type": "ite",
+        "start_idx": 10,
+        "end_idx": 12
+      }
+    ]
+  },
+  {
+    "text": "在血流的情况下GPⅠb缺乏的血小板不能与血管内皮下基质中的vWF相结合，因而就不能实现其黏附功能。",
+    "entities": [
+      {
+        "entity": "血小板",
+        "type": "bod",
+        "start_idx": 14,
+        "end_idx": 16
+      },
+      {
+        "entity": "GPⅠb",
+        "type": "mic",
+        "start_idx": 7,
+        "end_idx": 10
+      },
+      {
+        "entity": "vWF",
+        "type": "ite",
+        "start_idx": 29,
+        "end_idx": 31
+      }
+    ]
+  }
+]
